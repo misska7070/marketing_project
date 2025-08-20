@@ -37,52 +37,52 @@ Steps:
 
 ## 📊 Dashboard Highlights
 
-### Funnel View
+### 📊 Funnel View  
 
-Overview: Tracks the journey from money spent → sign-ups → paying customers.
+**Overview:** Tracks the journey from money spent → sign-ups → paying customers.  
 
-Conclusion: Only ~14% of sign-ups converted into paying users; most dropped off before purchase.
+**Conclusion:** Only ~14% of sign-ups converted into paying users; most dropped off before purchase.  
 
-Insight: Biggest leak is between sign-up and first payment.
+**Insight:** The biggest leak is between sign-up and first payment.  
 
-Action: Add early nudges (emails, trial offers, discounts) in the first week.
-
+**Action:** Add early nudges (emails, trial offers, discounts) in the first week.  
 
 ![Funnel](images/Funnel.png)  
 
-### Channel Comparison
+---
 
-Return on Ad Spend (blue bars):
-1 = break-even. Above 1 = profit.
-TikTok → 1.53 (good), Facebook → 1.29 (weak).
+### 📊 Channel Comparison  
 
-Cost to acquire a paying customer (red bars):
-Reference line = £20.52 (average).
-TikTok → £18.15 (below average, good).
-Facebook → £22.37 (above average, risky).
+**Return on Ad Spend (blue bars):**  
+1 = break-even. Above 1 = profit.  
+TikTok → 1.53 (good), Facebook → 1.29 (weak).  
 
-Insight: TikTok delivers stronger returns and cheaper customers.
+**Cost to acquire a paying customer (red bars):**  
+Reference line = £20.52 (average).  
+TikTok → £18.15 (below average, good).  
+Facebook → £22.37 (above average, risky).  
 
-Action: Shift more budget to TikTok, optimise or cap Facebook until it improves.
+**Insight:** TikTok delivers stronger returns and cheaper customers.  
+
+**Action:** Shift more budget to TikTok, optimise or cap Facebook until it improves.  
 
 ![TikTok vs Facebook](images/tiktok_vs_fb.png)  
 
+---
 
-### Spending Efficiency
-Which country performs better?
-Great Britain → £1 spent returns ~£1.54.
-France → £1 spent returns ~£1.13.
+### 📊 Spending Efficiency (by Country)  
 
-What does it mean?
-UK campaigns are more profitable, while French campaigns underperform.
+**Which country performs better?**  
+Great Britain → £1 spent returns ~£1.54.  
+France → £1 spent returns ~£1.13.  
 
-How to improve France?
+**What does it mean?**  
+UK campaigns are more profitable, while French campaigns underperform.  
 
-Reallocate part of the French budget to the UK (higher returns).
-
-Run A/B tests in France with new creatives and tighter targeting.
-
-Track weekly until France reaches at least ~1.3× return.
+**How to improve France:**  
+- Reallocate part of the French budget to the UK (higher returns).  
+- Run A/B tests in France with new creatives and tighter targeting.  
+- Track weekly until France reaches at least ~1.3× return.  
 
 ![ROAS](images/roas.png)  
 
