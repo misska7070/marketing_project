@@ -38,44 +38,54 @@ Steps:
 ## 📊 Dashboard Highlights
 
 ### Funnel View
+
+Overview: Tracks the journey from money spent → sign-ups → paying customers.
+
+Conclusion: Only ~14% of sign-ups converted into paying users; most dropped off before purchase.
+
+Insight: Biggest leak is between sign-up and first payment.
+
+Action: Add early nudges (emails, trial offers, discounts) in the first week.
+
+
 ![Funnel](images/Funnel.png)  
-*Shows how spend → sign-ups → paying customers flow through the funnel.
-Insight: Only 14% of sign-ups became paying users; most dropped off before purchase.
-Action: Add early conversion nudges (emails, discounts, trial offers) in the first week.*  
 
 ### Channel Comparison
 
-*Compares efficiency of both channels.
 Return on Ad Spend (blue bars):
 1 = break-even. Above 1 = profit.
-TikTok: 1.53 (good). Facebook: 1.29 (weak).
+TikTok → 1.53 (good), Facebook → 1.29 (weak).
 
 Cost to acquire a paying customer (red bars):
 Reference line = £20.52 (average).
-TikTok: £18.15 (below average, good). Facebook: £22.37 (above average, risky).
+TikTok → £18.15 (below average, good).
+Facebook → £22.37 (above average, risky).
 
-Insight: TikTok campaigns delivered stronger returns per pound spent than Facebook.
-Action: Shift more budget into TikTok, cap or optimise Facebook until its returns improve.*
+Insight: TikTok delivers stronger returns and cheaper customers.
+
+Action: Shift more budget to TikTok, optimise or cap Facebook until it improves.
 
 ![TikTok vs Facebook](images/tiktok_vs_fb.png)  
 
 
 ### Spending Efficiency
-![ROAS](images/roas.png)  
-*Which country is performing better?
-Great Britain → every £1 spent brought back ~£1.54.
-France → every £1 spent brought back ~£1.13.
+Which country performs better?
+Great Britain → £1 spent returns ~£1.54.
+France → £1 spent returns ~£1.13.
 
 What does it mean?
-UK campaigns are bringing in customers who spend more, while French campaigns are less profitable and under-monetised.
+UK campaigns are more profitable, while French campaigns underperform.
 
 How to improve France?
 
 Reallocate part of the French budget to the UK (higher returns).
 
-Run A/B tests in France with new messaging, tighter targeting, or fresh creatives.
+Run A/B tests in France with new creatives and tighter targeting.
 
-Track country-level performance weekly until France reaches at least ~1.3× return.*
+Track weekly until France reaches at least ~1.3× return.
+
+![ROAS](images/roas.png)  
+
 
 ### Dashboard Snapshots
 ![Marketing Dashboard 1](images/Marketing_dashboard_1.jpg)  
