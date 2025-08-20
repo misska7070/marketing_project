@@ -1,0 +1,3065 @@
+account_id,signup_date,attribution_source
+acct_00001,01-01-2024,campaign_A
+acct_00032,01-01-2024,campaign_A
+acct_00063,01-01-2024,campaign_A
+acct_00094,01-01-2024,campaign_A
+acct_01025,01-01-2024,campaign_A
+acct_01056,01-01-2024,campaign_A
+acct_01087,01-01-2024,campaign_A
+acct_01118,01-01-2024,campaign_A
+acct_01229,01-01-2024,campaign_A
+acct_00002,02-01-2024,campaign_A
+acct_00033,02-01-2024,campaign_A
+acct_00064,02-01-2024,campaign_A
+acct_00095,02-01-2024,campaign_A
+acct_01026,02-01-2024,campaign_A
+acct_01057,02-01-2024,campaign_A
+acct_01088,02-01-2024,campaign_A
+acct_01119,02-01-2024,campaign_A
+acct_01230,02-01-2024,campaign_A
+acct_00003,03-01-2024,campaign_A
+acct_00034,03-01-2024,campaign_A
+acct_00065,03-01-2024,campaign_A
+acct_00096,03-01-2024,campaign_A
+acct_01027,03-01-2024,campaign_A
+acct_01058,03-01-2024,campaign_A
+acct_01089,03-01-2024,campaign_A
+acct_01200,03-01-2024,campaign_A
+acct_01231,03-01-2024,campaign_A
+acct_00004,04-01-2024,campaign_A
+acct_00035,04-01-2024,campaign_A
+acct_00066,04-01-2024,campaign_A
+acct_00097,01-01-2024,campaign_A
+acct_01028,04-01-2024,campaign_A
+acct_01059,04-01-2024,campaign_A
+acct_01090,04-01-2024,campaign_A
+acct_01201,04-01-2024,campaign_A
+acct_00005,05-01-2024,campaign_A
+acct_00036,05-01-2024,campaign_A
+acct_00067,05-01-2024,campaign_A
+acct_00098,05-01-2024,campaign_A
+acct_01029,05-01-2024,campaign_A
+acct_01060,05-01-2024,campaign_A
+acct_01091,05-01-2024,campaign_A
+acct_01202,05-01-2024,campaign_A
+acct_00006,06-01-2024,campaign_A
+acct_00037,06-01-2024,campaign_A
+acct_00068,06-01-2024,campaign_A
+acct_00099,06-01-2024,campaign_A
+acct_01030,06-01-2024,campaign_A
+acct_01061,06-01-2024,campaign_A
+acct_01092,06-01-2024,campaign_A
+acct_01203,06-01-2024,campaign_A
+acct_00007,07-01-2024,campaign_A
+acct_00038,07-01-2024,campaign_A
+acct_00069,07-01-2024,campaign_A
+acct_01000,07-01-2024,campaign_A
+acct_01031,07-01-2024,campaign_A
+acct_01062,07-01-2024,campaign_A
+acct_01093,07-01-2024,campaign_A
+acct_01204,07-01-2024,campaign_A
+acct_00008,08-01-2024,campaign_A
+acct_00039,08-01-2024,campaign_A
+acct_00070,08-01-2024,campaign_A
+acct_01001,08-01-2024,campaign_A
+acct_01032,23-01-2024,campaign_A
+acct_01063,08-01-2024,campaign_A
+acct_01094,08-01-2024,campaign_A
+acct_01205,08-01-2024,campaign_A
+acct_00009,09-01-2024,campaign_A
+acct_00040,09-01-2024,campaign_A
+acct_00071,09-01-2024,campaign_A
+acct_01002,09-01-2024,campaign_A
+acct_01033,09-01-2024,campaign_A
+acct_01064,09-01-2024,campaign_A
+acct_01095,09-01-2024,campaign_A
+acct_01206,09-01-2024,campaign_A
+acct_00010,10-01-2024,campaign_A
+acct_00041,10-01-2024,campaign_A
+acct_00072,10-01-2024,campaign_A
+acct_01003,10-01-2024,campaign_A
+acct_01034,10-01-2024,campaign_A
+acct_01065,07-01-2024,campaign_A
+acct_01096,10-01-2024,campaign_A
+acct_01207,10-01-2024,campaign_A
+acct_00011,11-01-2024,campaign_A
+acct_00042,11-01-2024,campaign_A
+acct_00073,11-01-2024,campaign_A
+acct_01004,11-01-2024,campaign_A
+acct_01035,11-01-2024,campaign_A
+acct_01066,11-01-2024,campaign_A
+acct_01097,11-01-2024,campaign_A
+acct_01208,11-01-2024,campaign_A
+acct_00012,07-01-2024,campaign_A
+acct_00043,07-01-2024,campaign_A
+acct_00074,12-01-2024,campaign_A
+acct_01005,12-01-2024,campaign_A
+acct_01036,12-01-2024,campaign_A
+acct_01067,12-01-2024,campaign_A
+acct_01098,12-01-2024,campaign_A
+acct_01209,12-01-2024,campaign_A
+acct_00013,13-01-2024,campaign_A
+acct_00044,13-01-2024,campaign_A
+acct_00075,13-01-2024,campaign_A
+acct_01006,13-01-2024,campaign_A
+acct_01037,13-01-2024,campaign_A
+acct_01068,13-01-2024,campaign_A
+acct_01099,13-01-2024,campaign_A
+acct_01210,13-01-2024,campaign_A
+acct_00014,14-01-2024,campaign_A
+acct_00045,14-01-2024,campaign_A
+acct_00076,14-01-2024,campaign_A
+acct_01007,14-01-2024,campaign_A
+acct_01038,15-01-2024,campaign_A
+acct_01069,14-01-2024,campaign_A
+acct_01100,14-01-2024,campaign_A
+acct_01211,14-01-2024,campaign_A
+acct_00015,15-01-2024,campaign_A
+acct_00046,15-01-2024,campaign_A
+acct_00077,15-01-2024,campaign_A
+acct_01008,15-01-2024,campaign_A
+acct_01039,15-01-2024,campaign_A
+acct_01070,15-01-2024,campaign_A
+acct_01101,15-01-2024,campaign_A
+acct_01212,15-01-2024,campaign_A
+acct_00016,16-01-2024,campaign_A
+acct_00047,16-01-2024,campaign_A
+acct_00078,16-01-2024,campaign_A
+acct_01009,16-01-2024,campaign_A
+acct_01040,16-01-2024,campaign_A
+acct_01071,16-01-2024,campaign_A
+acct_01102,16-01-2024,campaign_A
+acct_01213,16-01-2024,campaign_A
+acct_00017,17-01-2024,campaign_A
+acct_00048,17-01-2024,campaign_A
+acct_00079,17-01-2024,campaign_A
+acct_01010,17-01-2024,campaign_A
+acct_01041,17-01-2024,campaign_A
+acct_01072,17-01-2024,campaign_A
+acct_01103,17-01-2024,campaign_A
+acct_01214,17-01-2024,campaign_A
+acct_00018,18-01-2024,campaign_A
+acct_00049,18-01-2024,campaign_A
+acct_00080,18-01-2024,campaign_A
+acct_01011,18-01-2024,campaign_A
+acct_01042,18-01-2024,campaign_A
+acct_01073,18-01-2024,campaign_A
+acct_01104,18-01-2024,campaign_A
+acct_01215,18-01-2024,campaign_A
+acct_00019,19-01-2024,campaign_A
+acct_00050,19-01-2024,campaign_A
+acct_00081,19-01-2024,campaign_A
+acct_01012,19-01-2024,campaign_A
+acct_01043,19-01-2024,campaign_A
+acct_01074,19-01-2024,campaign_A
+acct_01105,19-01-2024,campaign_A
+acct_01216,19-01-2024,campaign_A
+acct_00020,20-01-2024,campaign_A
+acct_00051,20-01-2024,campaign_A
+acct_00082,20-01-2024,campaign_A
+acct_01013,20-01-2024,campaign_A
+acct_01044,20-01-2024,campaign_A
+acct_01075,20-01-2024,campaign_A
+acct_01106,20-01-2024,campaign_A
+acct_01217,20-01-2024,campaign_A
+acct_00021,21-01-2024,campaign_A
+acct_00052,21-01-2024,campaign_A
+acct_00083,21-01-2024,campaign_A
+acct_01014,21-01-2024,campaign_A
+acct_01045,21-01-2024,campaign_A
+acct_01076,21-01-2024,campaign_A
+acct_01107,21-01-2024,campaign_A
+acct_01218,21-01-2024,campaign_A
+acct_00022,23-01-2024,campaign_A
+acct_00053,22-01-2024,campaign_A
+acct_00084,22-01-2024,campaign_A
+acct_01015,22-01-2024,campaign_A
+acct_01046,22-01-2024,campaign_A
+acct_01077,22-01-2024,campaign_A
+acct_01108,22-01-2024,campaign_A
+acct_01219,22-01-2024,campaign_A
+acct_00023,23-01-2024,campaign_A
+acct_00054,23-01-2024,campaign_A
+acct_00085,23-01-2024,campaign_A
+acct_01016,23-01-2024,campaign_A
+acct_01047,23-01-2024,campaign_A
+acct_01078,23-01-2024,campaign_A
+acct_01109,23-01-2024,campaign_A
+acct_01220,23-01-2024,campaign_A
+acct_00024,22-01-2024,campaign_A
+acct_00055,24-01-2024,campaign_A
+acct_00086,24-01-2024,campaign_A
+acct_01017,24-01-2024,campaign_A
+acct_01048,24-01-2024,campaign_A
+acct_01079,24-01-2024,campaign_A
+acct_01110,24-01-2024,campaign_A
+acct_01221,24-01-2024,campaign_A
+acct_00025,25-01-2024,campaign_A
+acct_00056,25-01-2024,campaign_A
+acct_00087,25-01-2024,campaign_A
+acct_01018,25-01-2024,campaign_A
+acct_01049,25-01-2024,campaign_A
+acct_01080,25-01-2024,campaign_A
+acct_01111,25-01-2024,campaign_A
+acct_01222,25-01-2024,campaign_A
+acct_00026,26-01-2024,campaign_A
+acct_00057,26-01-2024,campaign_A
+acct_00088,26-01-2024,campaign_A
+acct_01019,26-01-2024,campaign_A
+acct_01050,26-01-2024,campaign_A
+acct_01081,25-01-2024,campaign_A
+acct_01112,25-01-2024,campaign_A
+acct_01223,26-01-2024,campaign_A
+acct_00027,27-01-2024,campaign_A
+acct_00058,27-01-2024,campaign_A
+acct_00089,25-01-2024,campaign_A
+acct_01020,27-01-2024,campaign_A
+acct_01051,27-01-2024,campaign_A
+acct_01082,27-01-2024,campaign_A
+acct_01113,27-01-2024,campaign_A
+acct_01224,27-01-2024,campaign_A
+acct_00028,28-01-2024,campaign_A
+acct_00059,28-01-2024,campaign_A
+acct_00090,28-01-2024,campaign_A
+acct_01021,21-01-2024,campaign_A
+acct_01052,21-01-2024,campaign_A
+acct_01083,28-01-2024,campaign_A
+acct_01114,28-01-2024,campaign_A
+acct_01225,28-01-2024,campaign_A
+acct_00029,29-01-2024,campaign_A
+acct_00060,29-01-2024,campaign_A
+acct_00091,29-01-2024,campaign_A
+acct_01022,29-01-2024,campaign_A
+acct_01053,29-01-2024,campaign_A
+acct_01084,29-01-2024,campaign_A
+acct_01115,29-01-2024,campaign_A
+acct_01226,29-01-2024,campaign_A
+acct_00030,30-01-2024,campaign_A
+acct_00061,30-01-2024,campaign_A
+acct_00092,30-01-2024,campaign_A
+acct_01023,30-01-2024,campaign_A
+acct_01054,30-01-2024,campaign_A
+acct_01085,30-01-2024,campaign_A
+acct_01116,30-01-2024,campaign_A
+acct_01227,30-01-2024,campaign_A
+acct_00031,31-01-2024,campaign_A
+acct_00062,31-01-2024,campaign_A
+acct_00093,31-01-2024,campaign_A
+acct_01024,31-01-2024,campaign_A
+acct_01055,31-01-2024,campaign_A
+acct_01086,15-01-2024,campaign_A
+acct_01117,01-01-2024,campaign_A
+acct_01228,15-01-2024,campaign_A
+acct_01238,01-01-2024,campaign_A | FR
+acct_02777,01-01-2024,campaign_A | FR
+acct_02778,01-01-2024,campaign_A | FR
+acct_02779,01-01-2024,campaign_A | FR
+acct_02780,01-01-2024,campaign_A | FR
+acct_02781,01-01-2024,campaign_A | FR
+acct_02782,01-01-2024,campaign_A | FR
+acct_02783,02-01-2024,campaign_A | FR
+acct_02784,02-01-2024,campaign_A | FR
+acct_02785,02-01-2024,campaign_A | FR
+acct_02786,02-01-2024,campaign_A | FR
+acct_02787,02-01-2024,campaign_A | FR
+acct_02788,02-01-2024,campaign_A | FR
+acct_01246,03-01-2024,campaign_A | FR
+acct_02789,03-01-2024,campaign_A | FR
+acct_02790,03-01-2024,campaign_A | FR
+acct_02791,03-01-2024,campaign_A | FR
+acct_02792,03-01-2024,campaign_A | FR
+acct_02793,03-01-2024,campaign_A | FR
+acct_02794,03-01-2024,campaign_A | FR
+acct_01411,04-01-2024,campaign_A | FR
+acct_02795,01-01-2024,campaign_A | FR
+acct_02796,01-01-2024,campaign_A | FR
+acct_02797,04-01-2024,campaign_A | FR
+acct_02798,04-01-2024,campaign_A | FR
+acct_02799,04-01-2024,campaign_A | FR
+acct_02800,04-01-2024,campaign_A | FR
+acct_01259,05-01-2024,campaign_A | FR
+acct_02801,05-01-2024,campaign_A | FR
+acct_02802,05-01-2024,campaign_A | FR
+acct_02803,05-01-2024,campaign_A | FR
+acct_02804,05-01-2024,campaign_A | FR
+acct_02805,05-01-2024,campaign_A | FR
+acct_02806,05-01-2024,campaign_A | FR
+acct_01264,06-01-2024,campaign_A | FR
+acct_02807,06-01-2024,campaign_A | FR
+acct_02808,06-01-2024,campaign_A | FR
+acct_02809,06-01-2024,campaign_A | FR
+acct_02810,06-01-2024,campaign_A | FR
+acct_02811,06-01-2024,campaign_A | FR
+acct_02812,06-01-2024,campaign_A | FR
+acct_02813,07-01-2024,campaign_A | FR
+acct_02814,07-01-2024,campaign_A | FR
+acct_02815,07-01-2024,campaign_A | FR
+acct_02816,07-01-2024,campaign_A | FR
+acct_02817,07-01-2024,campaign_A | FR
+acct_02818,07-01-2024,campaign_A | FR
+acct_02819,08-01-2024,campaign_A | FR
+acct_02820,08-01-2024,campaign_A | FR
+acct_02821,08-01-2024,campaign_A | FR
+acct_02822,08-01-2024,campaign_A | FR
+acct_02823,08-01-2024,campaign_A | FR
+acct_02824,08-01-2024,campaign_A | FR
+acct_02825,09-01-2024,campaign_A | FR
+acct_02826,09-01-2024,campaign_A | FR
+acct_02827,09-01-2024,campaign_A | FR
+acct_02828,09-01-2024,campaign_A | FR
+acct_02829,09-01-2024,campaign_A | FR
+acct_02830,09-01-2024,campaign_A | FR
+acct_02831,10-01-2024,campaign_A | FR
+acct_02832,10-01-2024,campaign_A | FR
+acct_02833,10-01-2024,campaign_A | FR
+acct_02834,10-01-2024,campaign_A | FR
+acct_02835,10-01-2024,campaign_A | FR
+acct_02836,10-01-2024,campaign_A | FR
+acct_01286,11-01-2024,campaign_A | FR
+acct_02837,11-01-2024,campaign_A | FR
+acct_02838,11-01-2024,campaign_A | FR
+acct_02839,11-01-2024,campaign_A | FR
+acct_02840,11-01-2024,campaign_A | FR
+acct_02841,11-01-2024,campaign_A | FR
+acct_02842,11-01-2024,campaign_A | FR
+acct_02843,12-01-2024,campaign_A | FR
+acct_02844,12-01-2024,campaign_A | FR
+acct_02845,12-01-2024,campaign_A | FR
+acct_02846,12-01-2024,campaign_A | FR
+acct_02847,12-01-2024,campaign_A | FR
+acct_02848,12-01-2024,campaign_A | FR
+acct_02849,13-01-2024,campaign_A | FR
+acct_02850,13-01-2024,campaign_A | FR
+acct_02851,13-01-2024,campaign_A | FR
+acct_02852,13-01-2024,campaign_A | FR
+acct_02853,13-01-2024,campaign_A | FR
+acct_02854,13-01-2024,campaign_A | FR
+acct_02855,14-01-2024,campaign_A | FR
+acct_02856,14-01-2024,campaign_A | FR
+acct_02857,14-01-2024,campaign_A | FR
+acct_02858,14-01-2024,campaign_A | FR
+acct_02859,14-01-2024,campaign_A | FR
+acct_02860,14-01-2024,campaign_A | FR
+acct_02861,15-01-2024,campaign_A | FR
+acct_02862,15-01-2024,campaign_A | FR
+acct_02863,15-01-2024,campaign_A | FR
+acct_02864,15-01-2024,campaign_A | FR
+acct_02865,15-01-2024,campaign_A | FR
+acct_02866,15-01-2024,campaign_A | FR
+acct_01311,16-01-2024,campaign_A | FR
+acct_02867,16-01-2024,campaign_A | FR
+acct_02868,16-01-2024,campaign_A | FR
+acct_02869,16-01-2024,campaign_A | FR
+acct_02870,16-01-2024,campaign_A | FR
+acct_02871,16-01-2024,campaign_A | FR
+acct_02872,16-01-2024,campaign_A | FR
+acct_02873,17-01-2024,campaign_A | FR
+acct_02874,17-01-2024,campaign_A | FR
+acct_02875,17-01-2024,campaign_A | FR
+acct_02876,17-01-2024,campaign_A | FR
+acct_02877,17-01-2024,campaign_A | FR
+acct_02878,17-01-2024,campaign_A | FR
+acct_02879,18-01-2024,campaign_A | FR
+acct_02880,18-01-2024,campaign_A | FR
+acct_02881,18-01-2024,campaign_A | FR
+acct_02882,18-01-2024,campaign_A | FR
+acct_02883,18-01-2024,campaign_A | FR
+acct_02884,18-01-2024,campaign_A | FR
+acct_01329,19-01-2024,campaign_A | FR
+acct_02885,19-01-2024,campaign_A | FR
+acct_02886,19-01-2024,campaign_A | FR
+acct_02887,19-01-2024,campaign_A | FR
+acct_02888,19-01-2024,campaign_A | FR
+acct_02889,19-01-2024,campaign_A | FR
+acct_02890,19-01-2024,campaign_A | FR
+acct_02891,20-01-2024,campaign_A | FR
+acct_02892,20-01-2024,campaign_A | FR
+acct_02893,20-01-2024,campaign_A | FR
+acct_02894,20-01-2024,campaign_A | FR
+acct_02895,20-01-2024,campaign_A | FR
+acct_02896,20-01-2024,campaign_A | FR
+acct_02897,20-01-2024,campaign_A | FR
+acct_02898,20-01-2024,campaign_A | FR
+acct_02899,21-01-2024,campaign_A | FR
+acct_02900,21-01-2024,campaign_A | FR
+acct_02901,21-01-2024,campaign_A | FR
+acct_02902,21-01-2024,campaign_A | FR
+acct_02903,22-01-2024,campaign_A | FR
+acct_02904,22-01-2024,campaign_A | FR
+acct_02905,22-01-2024,campaign_A | FR
+acct_02906,22-01-2024,campaign_A | FR
+acct_02907,22-01-2024,campaign_A | FR
+acct_02908,22-01-2024,campaign_A | FR
+acct_02909,23-01-2024,campaign_A | FR
+acct_02910,23-01-2024,campaign_A | FR
+acct_02911,23-01-2024,campaign_A | FR
+acct_02912,23-01-2024,campaign_A | FR
+acct_02913,23-01-2024,campaign_A | FR
+acct_02914,23-01-2024,campaign_A | FR
+acct_02915,24-01-2024,campaign_A | FR
+acct_02916,23-01-2024,campaign_A | FR
+acct_02917,24-01-2024,campaign_A | FR
+acct_02918,24-01-2024,campaign_A | FR
+acct_02919,23-01-2024,campaign_A | FR
+acct_02920,24-01-2024,campaign_A | FR
+acct_02921,25-01-2024,campaign_A | FR
+acct_02922,25-01-2024,campaign_A | FR
+acct_02923,25-01-2024,campaign_A | FR
+acct_02924,25-01-2024,campaign_A | FR
+acct_02925,25-01-2024,campaign_A | FR
+acct_02926,25-01-2024,campaign_A | FR
+acct_02927,26-01-2024,campaign_A | FR
+acct_02928,26-01-2024,campaign_A | FR
+acct_02929,26-01-2024,campaign_A | FR
+acct_02930,26-01-2024,campaign_A | FR
+acct_02931,26-01-2024,campaign_A | FR
+acct_02932,26-01-2024,campaign_A | FR
+acct_01367,27-01-2024,campaign_A | FR
+acct_02933,27-01-2024,campaign_A | FR
+acct_02934,27-01-2024,campaign_A | FR
+acct_02935,27-01-2024,campaign_A | FR
+acct_02936,27-01-2024,campaign_A | FR
+acct_02937,27-01-2024,campaign_A | FR
+acct_02938,27-01-2024,campaign_A | FR
+acct_02939,28-01-2024,campaign_A | FR
+acct_02940,28-01-2024,campaign_A | FR
+acct_02941,28-01-2024,campaign_A | FR
+acct_02942,28-01-2024,campaign_A | FR
+acct_02943,28-01-2024,campaign_A | FR
+acct_02944,28-01-2024,campaign_A | FR
+acct_02945,29-01-2024,campaign_A | FR
+acct_02946,29-01-2024,campaign_A | FR
+acct_02947,29-01-2024,campaign_A | FR
+acct_02948,29-01-2024,campaign_A | FR
+acct_02949,29-01-2024,campaign_A | FR
+acct_02950,29-01-2024,campaign_A | FR
+acct_02951,30-01-2024,campaign_A | FR
+acct_02952,30-01-2024,campaign_A | FR
+acct_02953,30-01-2024,campaign_A | FR
+acct_02954,30-01-2024,campaign_A | FR
+acct_02955,30-01-2024,campaign_A | FR
+acct_02956,30-01-2024,campaign_A | FR
+acct_01387,31-01-2024,campaign_A | FR
+acct_02957,31-01-2024,campaign_A | FR
+acct_02958,31-01-2024,campaign_A | FR
+acct_02959,31-01-2024,campaign_A | FR
+acct_02960,31-01-2024,campaign_A | FR
+acct_02961,31-01-2024,campaign_A | FR
+acct_02962,31-01-2024,campaign_A | FR
+acct_01232,01-01-2024,campaign_B
+acct_01233,12-01-2024,campaign_B
+acct_01234,12-01-2024,campaign_B
+acct_01235,01-01-2024,campaign_B
+acct_01236,01-01-2024,campaign_B
+acct_01237,01-01-2024,campaign_B
+acct_01390,01-01-2024,campaign_B
+acct_01391,01-01-2024,campaign_B
+acct_01392,01-01-2024,campaign_B
+acct_01393,01-01-2024,campaign_B
+acct_01394,01-01-2024,campaign_B
+acct_01395,01-01-2024,campaign_B
+acct_01396,12-01-2024,campaign_B
+acct_01548,17-01-2024,campaign_B
+acct_01549,17-01-2024,campaign_B
+acct_01550,17-01-2024,campaign_B
+acct_01551,01-01-2024,campaign_B
+acct_01552,01-01-2024,campaign_B
+acct_01553,01-01-2024,campaign_B
+acct_01554,01-01-2024,campaign_B
+acct_01706,01-01-2024,campaign_B
+acct_01707,01-01-2024,campaign_B
+acct_01708,01-01-2024,campaign_B
+acct_01709,01-01-2024,campaign_B
+acct_01710,01-01-2024,campaign_B
+acct_01711,01-01-2024,campaign_B
+acct_01712,01-01-2024,campaign_B
+acct_01239,02-01-2024,campaign_B
+acct_01240,02-01-2024,campaign_B
+acct_01241,02-01-2024,campaign_B
+acct_01242,02-01-2024,campaign_B
+acct_01243,02-01-2024,campaign_B
+acct_01244,02-01-2024,campaign_B
+acct_01397,02-01-2024,campaign_B
+acct_01398,02-01-2024,campaign_B
+acct_01399,02-01-2024,campaign_B
+acct_01400,02-01-2024,campaign_B
+acct_01401,02-01-2024,campaign_B
+acct_01402,02-01-2024,campaign_B
+acct_01555,02-01-2024,campaign_B
+acct_01556,02-01-2024,campaign_B
+acct_01557,02-01-2024,campaign_B
+acct_01558,02-01-2024,campaign_B
+acct_01559,02-01-2024,campaign_B
+acct_01560,02-01-2024,campaign_B
+acct_01713,02-01-2024,campaign_B
+acct_01714,02-01-2024,campaign_B
+acct_01715,21-01-2024,campaign_B
+acct_01716,21-01-2024,campaign_B
+acct_01717,02-01-2024,campaign_B
+acct_01245,03-01-2024,campaign_B
+acct_01247,03-01-2024,campaign_B
+acct_01248,03-01-2024,campaign_B
+acct_01249,03-01-2024,campaign_B
+acct_01403,03-01-2024,campaign_B
+acct_01404,03-01-2024,campaign_B
+acct_01405,03-01-2024,campaign_B
+acct_01406,03-01-2024,campaign_B
+acct_01407,03-01-2024,campaign_B
+acct_01561,03-01-2024,campaign_B
+acct_01562,03-01-2024,campaign_B
+acct_01563,03-01-2024,campaign_B
+acct_01564,03-01-2024,campaign_B
+acct_01565,03-01-2024,campaign_B
+acct_01250,04-01-2024,campaign_B
+acct_01251,04-01-2024,campaign_B
+acct_01252,04-01-2024,campaign_B
+acct_01253,04-01-2024,campaign_B
+acct_01254,04-01-2024,campaign_B
+acct_01408,04-01-2024,campaign_B
+acct_01409,04-01-2024,campaign_B
+acct_01410,04-01-2024,campaign_B
+acct_01412,04-01-2024,campaign_B
+acct_01566,04-01-2024,campaign_B
+acct_01567,04-01-2024,campaign_B
+acct_01568,04-01-2024,campaign_B
+acct_01569,04-01-2024,campaign_B
+acct_01570,04-01-2024,campaign_B
+acct_01255,05-01-2024,campaign_B
+acct_01256,05-01-2024,campaign_B
+acct_01257,05-01-2024,campaign_B
+acct_01258,05-01-2024,campaign_B
+acct_01413,05-01-2024,campaign_B
+acct_01414,05-01-2024,campaign_B
+acct_01415,05-01-2024,campaign_B
+acct_01416,05-01-2024,campaign_B
+acct_01417,05-01-2024,campaign_B
+acct_01571,05-01-2024,campaign_B
+acct_01572,05-01-2024,campaign_B
+acct_01573,05-01-2024,campaign_B
+acct_01574,05-01-2024,campaign_B
+acct_01575,05-01-2024,campaign_B
+acct_01260,06-01-2024,campaign_B
+acct_01261,06-01-2024,campaign_B
+acct_01262,06-01-2024,campaign_B
+acct_01263,06-01-2024,campaign_B
+acct_01418,06-01-2024,campaign_B
+acct_01419,06-01-2024,campaign_B
+acct_01420,06-01-2024,campaign_B
+acct_01421,06-01-2024,campaign_B
+acct_01422,06-01-2024,campaign_B
+acct_01576,06-01-2024,campaign_B
+acct_01577,06-01-2024,campaign_B
+acct_01578,06-01-2024,campaign_B
+acct_01579,06-01-2024,campaign_B
+acct_01580,06-01-2024,campaign_B
+acct_01265,07-01-2024,campaign_B
+acct_01266,07-01-2024,campaign_B
+acct_01267,07-01-2024,campaign_B
+acct_01268,07-01-2024,campaign_B
+acct_01269,07-01-2024,campaign_B
+acct_01423,07-01-2024,campaign_B
+acct_01424,07-01-2024,campaign_B
+acct_01425,07-01-2024,campaign_B
+acct_01426,07-01-2024,campaign_B
+acct_01427,07-01-2024,campaign_B
+acct_01581,07-01-2024,campaign_B
+acct_01582,07-01-2024,campaign_B
+acct_01583,07-01-2024,campaign_B
+acct_01584,07-01-2024,campaign_B
+acct_01585,07-01-2024,campaign_B
+acct_01270,08-01-2024,campaign_B
+acct_01271,08-01-2024,campaign_B
+acct_01272,08-01-2024,campaign_B
+acct_01273,08-01-2024,campaign_B
+acct_01274,08-01-2024,campaign_B
+acct_01428,08-01-2024,campaign_B
+acct_01429,08-01-2024,campaign_B
+acct_01430,08-01-2024,campaign_B
+acct_01431,08-01-2024,campaign_B
+acct_01432,08-01-2024,campaign_B
+acct_01586,08-01-2024,campaign_B
+acct_01587,08-01-2024,campaign_B
+acct_01588,08-01-2024,campaign_B
+acct_01589,08-01-2024,campaign_B
+acct_01590,08-01-2024,campaign_B
+acct_01275,09-01-2024,campaign_B
+acct_01276,09-01-2024,campaign_B
+acct_01277,09-01-2024,campaign_B
+acct_01278,09-01-2024,campaign_B
+acct_01279,09-01-2024,campaign_B
+acct_01433,09-01-2024,campaign_B
+acct_01434,09-01-2024,campaign_B
+acct_01435,09-01-2024,campaign_B
+acct_01436,09-01-2024,campaign_B
+acct_01437,09-01-2024,campaign_B
+acct_01591,09-01-2024,campaign_B
+acct_01592,09-01-2024,campaign_B
+acct_01593,09-01-2024,campaign_B
+acct_01594,09-01-2024,campaign_B
+acct_01595,09-01-2024,campaign_B
+acct_01280,10-01-2024,campaign_B
+acct_01281,10-01-2024,campaign_B
+acct_01282,10-01-2024,campaign_B
+acct_01283,10-01-2024,campaign_B
+acct_01284,10-01-2024,campaign_B
+acct_01438,10-01-2024,campaign_B
+acct_01439,10-01-2024,campaign_B
+acct_01440,10-01-2024,campaign_B
+acct_01441,10-01-2024,campaign_B
+acct_01442,10-01-2024,campaign_B
+acct_01596,10-01-2024,campaign_B
+acct_01597,10-01-2024,campaign_B
+acct_01598,10-01-2024,campaign_B
+acct_01599,10-01-2024,campaign_B
+acct_01600,10-01-2024,campaign_B
+acct_01285,11-01-2024,campaign_B
+acct_01287,11-01-2024,campaign_B
+acct_01288,11-01-2024,campaign_B
+acct_01289,11-01-2024,campaign_B
+acct_01443,11-01-2024,campaign_B
+acct_01444,11-01-2024,campaign_B
+acct_01445,11-01-2024,campaign_B
+acct_01446,11-01-2024,campaign_B
+acct_01447,11-01-2024,campaign_B
+acct_01601,11-01-2024,campaign_B
+acct_01602,11-01-2024,campaign_B
+acct_01603,11-01-2024,campaign_B
+acct_01604,11-01-2024,campaign_B
+acct_01605,11-01-2024,campaign_B
+acct_01290,12-01-2024,campaign_B
+acct_01291,12-01-2024,campaign_B
+acct_01292,12-01-2024,campaign_B
+acct_01293,12-01-2024,campaign_B
+acct_01294,12-01-2024,campaign_B
+acct_01448,12-01-2024,campaign_B
+acct_01449,12-01-2024,campaign_B
+acct_01450,12-01-2024,campaign_B
+acct_01451,12-01-2024,campaign_B
+acct_01452,12-01-2024,campaign_B
+acct_01606,12-01-2024,campaign_B
+acct_01607,12-01-2024,campaign_B
+acct_01608,12-01-2024,campaign_B
+acct_01609,12-01-2024,campaign_B
+acct_01610,12-01-2024,campaign_B
+acct_01295,13-01-2024,campaign_B
+acct_01296,13-01-2024,campaign_B
+acct_01297,13-01-2024,campaign_B
+acct_01298,13-01-2024,campaign_B
+acct_01299,13-01-2024,campaign_B
+acct_01453,13-01-2024,campaign_B
+acct_01454,13-01-2024,campaign_B
+acct_01455,13-01-2024,campaign_B
+acct_01456,13-01-2024,campaign_B
+acct_01457,13-01-2024,campaign_B
+acct_01611,13-01-2024,campaign_B
+acct_01612,13-01-2024,campaign_B
+acct_01613,13-01-2024,campaign_B
+acct_01614,13-01-2024,campaign_B
+acct_01615,13-01-2024,campaign_B
+acct_01300,14-01-2024,campaign_B
+acct_01301,14-01-2024,campaign_B
+acct_01302,14-01-2024,campaign_B
+acct_01303,14-01-2024,campaign_B
+acct_01304,14-01-2024,campaign_B
+acct_01458,14-01-2024,campaign_B
+acct_01459,14-01-2024,campaign_B
+acct_01460,14-01-2024,campaign_B
+acct_01461,14-01-2024,campaign_B
+acct_01462,14-01-2024,campaign_B
+acct_01616,14-01-2024,campaign_B
+acct_01617,14-01-2024,campaign_B
+acct_01618,14-01-2024,campaign_B
+acct_01619,14-01-2024,campaign_B
+acct_01620,14-01-2024,campaign_B
+acct_01305,15-01-2024,campaign_B
+acct_01306,15-01-2024,campaign_B
+acct_01307,15-01-2024,campaign_B
+acct_01308,15-01-2024,campaign_B
+acct_01309,15-01-2024,campaign_B
+acct_01463,15-01-2024,campaign_B
+acct_01464,15-01-2024,campaign_B
+acct_01465,15-01-2024,campaign_B
+acct_01466,15-01-2024,campaign_B
+acct_01467,15-01-2024,campaign_B
+acct_01621,15-01-2024,campaign_B
+acct_01622,15-01-2024,campaign_B
+acct_01623,15-01-2024,campaign_B
+acct_01624,15-01-2024,campaign_B
+acct_01625,15-01-2024,campaign_B
+acct_01310,16-01-2024,campaign_B
+acct_01312,16-01-2024,campaign_B
+acct_01313,16-01-2024,campaign_B
+acct_01314,16-01-2024,campaign_B
+acct_01468,16-01-2024,campaign_B
+acct_01469,16-01-2024,campaign_B
+acct_01470,16-01-2024,campaign_B
+acct_01471,16-01-2024,campaign_B
+acct_01472,16-01-2024,campaign_B
+acct_01626,16-01-2024,campaign_B
+acct_01627,16-01-2024,campaign_B
+acct_01628,16-01-2024,campaign_B
+acct_01629,16-01-2024,campaign_B
+acct_01630,16-01-2024,campaign_B
+acct_01315,17-01-2024,campaign_B
+acct_01316,17-01-2024,campaign_B
+acct_01317,17-01-2024,campaign_B
+acct_01318,17-01-2024,campaign_B
+acct_01319,17-01-2024,campaign_B
+acct_01473,17-01-2024,campaign_B
+acct_01474,17-01-2024,campaign_B
+acct_01475,17-01-2024,campaign_B
+acct_01476,17-01-2024,campaign_B
+acct_01477,17-01-2024,campaign_B
+acct_01631,17-01-2024,campaign_B
+acct_01632,17-01-2024,campaign_B
+acct_01633,17-01-2024,campaign_B
+acct_01634,17-01-2024,campaign_B
+acct_01635,17-01-2024,campaign_B
+acct_01320,18-01-2024,campaign_B
+acct_01321,18-01-2024,campaign_B
+acct_01322,18-01-2024,campaign_B
+acct_01323,18-01-2024,campaign_B
+acct_01324,18-01-2024,campaign_B
+acct_01478,18-01-2024,campaign_B
+acct_01479,18-01-2024,campaign_B
+acct_01480,18-01-2024,campaign_B
+acct_01481,18-01-2024,campaign_B
+acct_01482,18-01-2024,campaign_B
+acct_01636,18-01-2024,campaign_B
+acct_01637,18-01-2024,campaign_B
+acct_01638,18-01-2024,campaign_B
+acct_01639,18-01-2024,campaign_B
+acct_01640,18-01-2024,campaign_B
+acct_01325,19-01-2024,campaign_B
+acct_01326,19-01-2024,campaign_B
+acct_01327,19-01-2024,campaign_B
+acct_01328,19-01-2024,campaign_B
+acct_01483,19-01-2024,campaign_B
+acct_01484,19-01-2024,campaign_B
+acct_01485,19-01-2024,campaign_B
+acct_01486,19-01-2024,campaign_B
+acct_01487,19-01-2024,campaign_B
+acct_01641,19-01-2024,campaign_B
+acct_01642,19-01-2024,campaign_B
+acct_01643,19-01-2024,campaign_B
+acct_01644,19-01-2024,campaign_B
+acct_01645,19-01-2024,campaign_B
+acct_01330,20-01-2024,campaign_B
+acct_01331,20-01-2024,campaign_B
+acct_01332,20-01-2024,campaign_B
+acct_01333,20-01-2024,campaign_B
+acct_01334,20-01-2024,campaign_B
+acct_01488,20-01-2024,campaign_B
+acct_01489,20-01-2024,campaign_B
+acct_01490,20-01-2024,campaign_B
+acct_01491,20-01-2024,campaign_B
+acct_01492,20-01-2024,campaign_B
+acct_01646,20-01-2024,campaign_B
+acct_01647,20-01-2024,campaign_B
+acct_01648,20-01-2024,campaign_B
+acct_01649,20-01-2024,campaign_B
+acct_01650,20-01-2024,campaign_B
+acct_01335,21-01-2024,campaign_B
+acct_01336,21-01-2024,campaign_B
+acct_01337,21-01-2024,campaign_B
+acct_01338,21-01-2024,campaign_B
+acct_01339,21-01-2024,campaign_B
+acct_01493,21-01-2024,campaign_B
+acct_01494,21-01-2024,campaign_B
+acct_01495,21-01-2024,campaign_B
+acct_01496,21-01-2024,campaign_B
+acct_01497,21-01-2024,campaign_B
+acct_01651,21-01-2024,campaign_B
+acct_01652,21-01-2024,campaign_B
+acct_01653,21-01-2024,campaign_B
+acct_01654,21-01-2024,campaign_B
+acct_01655,21-01-2024,campaign_B
+acct_01340,22-01-2024,campaign_B
+acct_01341,22-01-2024,campaign_B
+acct_01342,22-01-2024,campaign_B
+acct_01343,22-01-2024,campaign_B
+acct_01344,22-01-2024,campaign_B
+acct_01498,22-01-2024,campaign_B
+acct_01499,22-01-2024,campaign_B
+acct_01500,22-01-2024,campaign_B
+acct_01501,22-01-2024,campaign_B
+acct_01502,22-01-2024,campaign_B
+acct_01656,22-01-2024,campaign_B
+acct_01657,22-01-2024,campaign_B
+acct_01658,22-01-2024,campaign_B
+acct_01659,22-01-2024,campaign_B
+acct_01660,22-01-2024,campaign_B
+acct_01345,23-01-2024,campaign_B
+acct_01346,23-01-2024,campaign_B
+acct_01347,23-01-2024,campaign_B
+acct_01348,23-01-2024,campaign_B
+acct_01349,23-01-2024,campaign_B
+acct_01503,23-01-2024,campaign_B
+acct_01504,23-01-2024,campaign_B
+acct_01505,23-01-2024,campaign_B
+acct_01506,23-01-2024,campaign_B
+acct_01507,23-01-2024,campaign_B
+acct_01661,23-01-2024,campaign_B
+acct_01662,25-01-2024,campaign_B
+acct_01663,22-01-2024,campaign_B
+acct_01664,22-01-2024,campaign_B
+acct_01665,23-01-2024,campaign_B
+acct_01350,24-01-2024,campaign_B
+acct_01351,24-01-2024,campaign_B
+acct_01352,24-01-2024,campaign_B
+acct_01353,24-01-2024,campaign_B
+acct_01354,24-01-2024,campaign_B
+acct_01508,24-01-2024,campaign_B
+acct_01509,22-01-2024,campaign_B
+acct_01510,22-01-2024,campaign_B
+acct_01511,24-01-2024,campaign_B
+acct_01512,24-01-2024,campaign_B
+acct_01666,24-01-2024,campaign_B
+acct_01667,24-01-2024,campaign_B
+acct_01668,24-01-2024,campaign_B
+acct_01669,24-01-2024,campaign_B
+acct_01670,24-01-2024,campaign_B
+acct_01355,25-01-2024,campaign_B
+acct_01356,25-01-2024,campaign_B
+acct_01357,25-01-2024,campaign_B
+acct_01358,25-01-2024,campaign_B
+acct_01359,25-01-2024,campaign_B
+acct_01513,25-01-2024,campaign_B
+acct_01514,25-01-2024,campaign_B
+acct_01515,25-01-2024,campaign_B
+acct_01516,25-01-2024,campaign_B
+acct_01517,25-01-2024,campaign_B
+acct_01671,25-01-2024,campaign_B
+acct_01672,25-01-2024,campaign_B
+acct_01673,25-01-2024,campaign_B
+acct_01674,25-01-2024,campaign_B
+acct_01675,25-01-2024,campaign_B
+acct_01360,26-01-2024,campaign_B
+acct_01361,22-01-2024,campaign_B
+acct_01362,23-01-2024,campaign_B
+acct_01363,26-01-2024,campaign_B
+acct_01364,26-01-2024,campaign_B
+acct_01518,26-01-2024,campaign_B
+acct_01519,26-01-2024,campaign_B
+acct_01520,26-01-2024,campaign_B
+acct_01521,26-01-2024,campaign_B
+acct_01522,26-01-2024,campaign_B
+acct_01676,26-01-2024,campaign_B
+acct_01677,26-01-2024,campaign_B
+acct_01678,26-01-2024,campaign_B
+acct_01679,26-01-2024,campaign_B
+acct_01680,26-01-2024,campaign_B
+acct_01365,27-01-2024,campaign_B
+acct_01366,27-01-2024,campaign_B
+acct_01368,27-01-2024,campaign_B
+acct_01369,27-01-2024,campaign_B
+acct_01523,27-01-2024,campaign_B
+acct_01524,27-01-2024,campaign_B
+acct_01525,27-01-2024,campaign_B
+acct_01526,27-01-2024,campaign_B
+acct_01527,27-01-2024,campaign_B
+acct_01681,27-01-2024,campaign_B
+acct_01682,27-01-2024,campaign_B
+acct_01683,27-01-2024,campaign_B
+acct_01684,27-01-2024,campaign_B
+acct_01685,27-01-2024,campaign_B
+acct_01370,28-01-2024,campaign_B
+acct_01371,28-01-2024,campaign_B
+acct_01372,28-01-2024,campaign_B
+acct_01373,28-01-2024,campaign_B
+acct_01374,28-01-2024,campaign_B
+acct_01528,28-01-2024,campaign_B
+acct_01529,28-01-2024,campaign_B
+acct_01530,28-01-2024,campaign_B
+acct_01531,28-01-2024,campaign_B
+acct_01532,28-01-2024,campaign_B
+acct_01686,28-01-2024,campaign_B
+acct_01687,28-01-2024,campaign_B
+acct_01688,28-01-2024,campaign_B
+acct_01689,28-01-2024,campaign_B
+acct_01690,28-01-2024,campaign_B
+acct_01375,29-01-2024,campaign_B
+acct_01376,29-01-2024,campaign_B
+acct_01377,29-01-2024,campaign_B
+acct_01378,29-01-2024,campaign_B
+acct_01379,29-01-2024,campaign_B
+acct_01533,29-01-2024,campaign_B
+acct_01534,29-01-2024,campaign_B
+acct_01535,29-01-2024,campaign_B
+acct_01536,29-01-2024,campaign_B
+acct_01537,29-01-2024,campaign_B
+acct_01691,29-01-2024,campaign_B
+acct_01692,29-01-2024,campaign_B
+acct_01693,29-01-2024,campaign_B
+acct_01694,29-01-2024,campaign_B
+acct_01695,29-01-2024,campaign_B
+acct_01380,30-01-2024,campaign_B
+acct_01381,30-01-2024,campaign_B
+acct_01382,30-01-2024,campaign_B
+acct_01383,30-01-2024,campaign_B
+acct_01384,30-01-2024,campaign_B
+acct_01538,30-01-2024,campaign_B
+acct_01539,30-01-2024,campaign_B
+acct_01540,30-01-2024,campaign_B
+acct_01541,30-01-2024,campaign_B
+acct_01542,30-01-2024,campaign_B
+acct_01696,30-01-2024,campaign_B
+acct_01697,30-01-2024,campaign_B
+acct_01698,30-01-2024,campaign_B
+acct_01699,30-01-2024,campaign_B
+acct_01700,30-01-2024,campaign_B
+acct_01385,31-01-2024,campaign_B
+acct_01386,31-01-2024,campaign_B
+acct_01388,31-01-2024,campaign_B
+acct_01389,31-01-2024,campaign_B
+acct_01543,31-01-2024,campaign_B
+acct_01544,31-01-2024,campaign_B
+acct_01545,31-01-2024,campaign_B
+acct_01546,31-01-2024,campaign_B
+acct_01547,31-01-2024,campaign_B
+acct_01701,31-01-2024,campaign_B
+acct_01702,31-01-2024,campaign_B
+acct_01703,31-01-2024,campaign_B
+acct_01704,31-01-2024,campaign_B
+acct_01705,31-01-2024,campaign_B
+acct_03330,01-01-2024,campaign_B | FR
+acct_03331,01-01-2024,campaign_B | FR
+acct_03332,01-01-2024,campaign_B | FR
+acct_03333,01-01-2024,campaign_B | FR
+acct_03334,01-01-2024,campaign_B | FR
+acct_03335,01-01-2024,campaign_B | FR
+acct_03336,01-01-2024,campaign_B | FR
+acct_03337,01-01-2024,campaign_B | FR
+acct_03338,02-01-2024,campaign_B | FR
+acct_03339,02-01-2024,campaign_B | FR
+acct_03340,02-01-2024,campaign_B | FR
+acct_03341,02-01-2024,campaign_B | FR
+acct_03342,02-01-2024,campaign_B | FR
+acct_03343,03-01-2024,campaign_B | FR
+acct_03344,03-01-2024,campaign_B | FR
+acct_03345,03-01-2024,campaign_B | FR
+acct_03346,02-01-2024,campaign_B | FR
+acct_03347,03-01-2024,campaign_B | FR
+acct_03348,03-01-2024,campaign_B | FR
+acct_03349,01-01-2024,campaign_B | FR
+acct_03350,04-01-2024,campaign_B | FR
+acct_03351,04-01-2024,campaign_B | FR
+acct_03352,04-01-2024,campaign_B | FR
+acct_03353,04-01-2024,campaign_B | FR
+acct_03354,04-01-2024,campaign_B | FR
+acct_03355,05-01-2024,campaign_B | FR
+acct_03356,05-01-2024,campaign_B | FR
+acct_03357,05-01-2024,campaign_B | FR
+acct_03358,05-01-2024,campaign_B | FR
+acct_03359,05-01-2024,campaign_B | FR
+acct_03360,05-01-2024,campaign_B | FR
+acct_03361,06-01-2024,campaign_B | FR
+acct_03362,06-01-2024,campaign_B | FR
+acct_03363,06-01-2024,campaign_B | FR
+acct_03364,06-01-2024,campaign_B | FR
+acct_03365,06-01-2024,campaign_B | FR
+acct_03366,06-01-2024,campaign_B | FR
+acct_03367,07-01-2024,campaign_B | FR
+acct_03368,07-01-2024,campaign_B | FR
+acct_03369,07-01-2024,campaign_B | FR
+acct_03370,05-01-2024,campaign_B | FR
+acct_03371,07-01-2024,campaign_B | FR
+acct_03372,07-01-2024,campaign_B | FR
+acct_03373,08-01-2024,campaign_B | FR
+acct_03374,08-01-2024,campaign_B | FR
+acct_03375,08-01-2024,campaign_B | FR
+acct_03376,08-01-2024,campaign_B | FR
+acct_03377,05-01-2024,campaign_B | FR
+acct_03378,05-01-2024,campaign_B | FR
+acct_03379,09-01-2024,campaign_B | FR
+acct_03380,09-01-2024,campaign_B | FR
+acct_03381,09-01-2024,campaign_B | FR
+acct_03382,09-01-2024,campaign_B | FR
+acct_03383,09-01-2024,campaign_B | FR
+acct_03384,09-01-2024,campaign_B | FR
+acct_03385,10-01-2024,campaign_B | FR
+acct_03386,10-01-2024,campaign_B | FR
+acct_03387,10-01-2024,campaign_B | FR
+acct_03388,10-01-2024,campaign_B | FR
+acct_03389,10-01-2024,campaign_B | FR
+acct_03390,10-01-2024,campaign_B | FR
+acct_03391,11-01-2024,campaign_B | FR
+acct_03392,11-01-2024,campaign_B | FR
+acct_03393,11-01-2024,campaign_B | FR
+acct_03394,11-01-2024,campaign_B | FR
+acct_03395,11-01-2024,campaign_B | FR
+acct_03396,11-01-2024,campaign_B | FR
+acct_03397,12-01-2024,campaign_B | FR
+acct_03398,12-01-2024,campaign_B | FR
+acct_03399,12-01-2024,campaign_B | FR
+acct_03400,12-01-2024,campaign_B | FR
+acct_03401,12-01-2024,campaign_B | FR
+acct_03402,12-01-2024,campaign_B | FR
+acct_03403,13-01-2024,campaign_B | FR
+acct_03404,13-01-2024,campaign_B | FR
+acct_03405,12-01-2024,campaign_B | FR
+acct_03406,13-01-2024,campaign_B | FR
+acct_03407,13-01-2024,campaign_B | FR
+acct_03408,13-01-2024,campaign_B | FR
+acct_03409,14-01-2024,campaign_B | FR
+acct_03410,14-01-2024,campaign_B | FR
+acct_03411,14-01-2024,campaign_B | FR
+acct_03412,14-01-2024,campaign_B | FR
+acct_03413,14-01-2024,campaign_B | FR
+acct_03414,12-01-2024,campaign_B | FR
+acct_03415,15-01-2024,campaign_B | FR
+acct_03416,15-01-2024,campaign_B | FR
+acct_03417,15-01-2024,campaign_B | FR
+acct_03418,15-01-2024,campaign_B | FR
+acct_03419,15-01-2024,campaign_B | FR
+acct_03420,15-01-2024,campaign_B | FR
+acct_03421,16-01-2024,campaign_B | FR
+acct_03422,16-01-2024,campaign_B | FR
+acct_03423,16-01-2024,campaign_B | FR
+acct_03424,16-01-2024,campaign_B | FR
+acct_03425,16-01-2024,campaign_B | FR
+acct_03426,16-01-2024,campaign_B | FR
+acct_03427,16-01-2024,campaign_B | FR
+acct_03428,16-01-2024,campaign_B | FR
+acct_03429,17-01-2024,campaign_B | FR
+acct_03430,17-01-2024,campaign_B | FR
+acct_03431,17-01-2024,campaign_B | FR
+acct_03432,17-01-2024,campaign_B | FR
+acct_03433,18-01-2024,campaign_B | FR
+acct_03434,18-01-2024,campaign_B | FR
+acct_03435,18-01-2024,campaign_B | FR
+acct_03436,18-01-2024,campaign_B | FR
+acct_03437,18-01-2024,campaign_B | FR
+acct_03438,18-01-2024,campaign_B | FR
+acct_03439,19-01-2024,campaign_B | FR
+acct_03440,19-01-2024,campaign_B | FR
+acct_03441,19-01-2024,campaign_B | FR
+acct_03442,19-01-2024,campaign_B | FR
+acct_03443,19-01-2024,campaign_B | FR
+acct_03444,19-01-2024,campaign_B | FR
+acct_03445,20-01-2024,campaign_B | FR
+acct_03446,20-01-2024,campaign_B | FR
+acct_03447,20-01-2024,campaign_B | FR
+acct_03448,20-01-2024,campaign_B | FR
+acct_03449,20-01-2024,campaign_B | FR
+acct_03450,20-01-2024,campaign_B | FR
+acct_03451,21-01-2024,campaign_B | FR
+acct_03452,21-01-2024,campaign_B | FR
+acct_03453,21-01-2024,campaign_B | FR
+acct_03454,21-01-2024,campaign_B | FR
+acct_03455,21-01-2024,campaign_B | FR
+acct_03456,21-01-2024,campaign_B | FR
+acct_03457,22-01-2024,campaign_B | FR
+acct_03458,22-01-2024,campaign_B | FR
+acct_03459,22-01-2024,campaign_B | FR
+acct_03460,22-01-2024,campaign_B | FR
+acct_03461,20-01-2024,campaign_B | FR
+acct_03462,22-01-2024,campaign_B | FR
+acct_03463,23-01-2024,campaign_B | FR
+acct_03464,23-01-2024,campaign_B | FR
+acct_03465,23-01-2024,campaign_B | FR
+acct_03466,23-01-2024,campaign_B | FR
+acct_03467,20-01-2024,campaign_B | FR
+acct_03468,23-01-2024,campaign_B | FR
+acct_03469,24-01-2024,campaign_B | FR
+acct_03470,24-01-2024,campaign_B | FR
+acct_03471,24-01-2024,campaign_B | FR
+acct_03472,24-01-2024,campaign_B | FR
+acct_03473,24-01-2024,campaign_B | FR
+acct_03474,24-01-2024,campaign_B | FR
+acct_03475,25-01-2024,campaign_B | FR
+acct_03476,25-01-2024,campaign_B | FR
+acct_03477,25-01-2024,campaign_B | FR
+acct_03478,25-01-2024,campaign_B | FR
+acct_03479,25-01-2024,campaign_B | FR
+acct_03480,25-01-2024,campaign_B | FR
+acct_03481,26-01-2024,campaign_B | FR
+acct_03482,26-01-2024,campaign_B | FR
+acct_03483,26-01-2024,campaign_B | FR
+acct_03484,26-01-2024,campaign_B | FR
+acct_03485,25-01-2024,campaign_B | FR
+acct_03486,26-01-2024,campaign_B | FR
+acct_03487,27-01-2024,campaign_B | FR
+acct_03488,27-01-2024,campaign_B | FR
+acct_03489,27-01-2024,campaign_B | FR
+acct_03490,27-01-2024,campaign_B | FR
+acct_03491,27-01-2024,campaign_B | FR
+acct_03492,27-01-2024,campaign_B | FR
+acct_03493,28-01-2024,campaign_B | FR
+acct_03494,28-01-2024,campaign_B | FR
+acct_03495,28-01-2024,campaign_B | FR
+acct_03496,28-01-2024,campaign_B | FR
+acct_03497,28-01-2024,campaign_B | FR
+acct_03498,28-01-2024,campaign_B | FR
+acct_03499,29-01-2024,campaign_B | FR
+acct_03500,29-01-2024,campaign_B | FR
+acct_03501,29-01-2024,campaign_B | FR
+acct_03502,29-01-2024,campaign_B | FR
+acct_03503,29-01-2024,campaign_B | FR
+acct_03504,29-01-2024,campaign_B | FR
+acct_03505,30-01-2024,campaign_B | FR
+acct_03506,25-01-2024,campaign_B | FR
+acct_03507,30-01-2024,campaign_B | FR
+acct_03508,30-01-2024,campaign_B | FR
+acct_03509,30-01-2024,campaign_B | FR
+acct_03510,30-01-2024,campaign_B | FR
+acct_03511,31-01-2024,campaign_B | FR
+acct_03512,31-01-2024,campaign_B | FR
+acct_03513,25-01-2024,campaign_B | FR
+acct_03514,25-01-2024,campaign_B | FR
+acct_03515,31-01-2024,campaign_B | FR
+acct_03516,31-01-2024,campaign_B | FR
+acct_01769,01-01-2024,campaign_C
+acct_01770,01-01-2024,campaign_C
+acct_01771,01-01-2024,campaign_C
+acct_01862,01-01-2024,campaign_C
+acct_01893,01-01-2024,campaign_C
+acct_01772,02-01-2024,campaign_C
+acct_01773,02-01-2024,campaign_C
+acct_01774,02-01-2024,campaign_C
+acct_01863,02-01-2024,campaign_C
+acct_01894,02-01-2024,campaign_C
+acct_01775,03-01-2024,campaign_C
+acct_01776,03-01-2024,campaign_C
+acct_01777,01-01-2024,campaign_C
+acct_01864,03-01-2024,campaign_C
+acct_01895,03-01-2024,campaign_C
+acct_01778,04-01-2024,campaign_C
+acct_01779,04-01-2024,campaign_C
+acct_01780,01-01-2024,campaign_C
+acct_01865,04-01-2024,campaign_C
+acct_01896,04-01-2024,campaign_C
+acct_01781,01-01-2024,campaign_C
+acct_01782,05-01-2024,campaign_C
+acct_01783,05-01-2024,campaign_C
+acct_01866,05-01-2024,campaign_C
+acct_01897,01-01-2024,campaign_C
+acct_01784,06-01-2024,campaign_C
+acct_01785,06-01-2024,campaign_C
+acct_01786,06-01-2024,campaign_C
+acct_01867,06-01-2024,campaign_C
+acct_01898,06-01-2024,campaign_C
+acct_01787,07-01-2024,campaign_C
+acct_01788,06-01-2024,campaign_C
+acct_01789,07-01-2024,campaign_C
+acct_01868,07-01-2024,campaign_C
+acct_01899,07-01-2024,campaign_C
+acct_01790,08-01-2024,campaign_C
+acct_01791,08-01-2024,campaign_C
+acct_01792,08-01-2024,campaign_C
+acct_01869,06-01-2024,campaign_C
+acct_01900,06-01-2024,campaign_C
+acct_01793,09-01-2024,campaign_C
+acct_01794,09-01-2024,campaign_C
+acct_01795,09-01-2024,campaign_C
+acct_01870,09-01-2024,campaign_C
+acct_01901,09-01-2024,campaign_C
+acct_01796,10-01-2024,campaign_C
+acct_01797,10-01-2024,campaign_C
+acct_01798,10-01-2024,campaign_C
+acct_01871,10-01-2024,campaign_C
+acct_01902,10-01-2024,campaign_C
+acct_01799,11-01-2024,campaign_C
+acct_01800,11-01-2024,campaign_C
+acct_01801,11-01-2024,campaign_C
+acct_01872,10-01-2024,campaign_C
+acct_01903,11-01-2024,campaign_C
+acct_01802,12-01-2024,campaign_C
+acct_01803,12-01-2024,campaign_C
+acct_01804,12-01-2024,campaign_C
+acct_01873,12-01-2024,campaign_C
+acct_01904,12-01-2024,campaign_C
+acct_01805,13-01-2024,campaign_C
+acct_01806,13-01-2024,campaign_C
+acct_01807,13-01-2024,campaign_C
+acct_01874,10-01-2024,campaign_C
+acct_01905,13-01-2024,campaign_C
+acct_01808,14-01-2024,campaign_C
+acct_01809,14-01-2024,campaign_C
+acct_01810,14-01-2024,campaign_C
+acct_01875,14-01-2024,campaign_C
+acct_01906,14-01-2024,campaign_C
+acct_01811,15-01-2024,campaign_C
+acct_01812,15-01-2024,campaign_C
+acct_01813,10-01-2024,campaign_C
+acct_01876,15-01-2024,campaign_C
+acct_01907,15-01-2024,campaign_C
+acct_01814,16-01-2024,campaign_C
+acct_01815,16-01-2024,campaign_C
+acct_01816,16-01-2024,campaign_C
+acct_01877,16-01-2024,campaign_C
+acct_01908,16-01-2024,campaign_C
+acct_01817,17-01-2024,campaign_C
+acct_01818,10-01-2024,campaign_C
+acct_01819,10-01-2024,campaign_C
+acct_01878,17-01-2024,campaign_C
+acct_01909,17-01-2024,campaign_C
+acct_01820,18-01-2024,campaign_C
+acct_01821,18-01-2024,campaign_C
+acct_01822,18-01-2024,campaign_C
+acct_01879,18-01-2024,campaign_C
+acct_01910,18-01-2024,campaign_C
+acct_01823,19-01-2024,campaign_C
+acct_01824,19-01-2024,campaign_C
+acct_01825,19-01-2024,campaign_C
+acct_01880,19-01-2024,campaign_C
+acct_01911,19-01-2024,campaign_C
+acct_01826,20-01-2024,campaign_C
+acct_01827,19-01-2024,campaign_C
+acct_01828,20-01-2024,campaign_C
+acct_01881,20-01-2024,campaign_C
+acct_01912,20-01-2024,campaign_C
+acct_01829,21-01-2024,campaign_C
+acct_01830,21-01-2024,campaign_C
+acct_01831,19-01-2024,campaign_C
+acct_01882,21-01-2024,campaign_C
+acct_01913,21-01-2024,campaign_C
+acct_01832,22-01-2024,campaign_C
+acct_01833,22-01-2024,campaign_C
+acct_01834,22-01-2024,campaign_C
+acct_01883,22-01-2024,campaign_C
+acct_01914,22-01-2024,campaign_C
+acct_01835,23-01-2024,campaign_C
+acct_01836,23-01-2024,campaign_C
+acct_01837,23-01-2024,campaign_C
+acct_01884,19-01-2024,campaign_C
+acct_01915,23-01-2024,campaign_C
+acct_01838,24-01-2024,campaign_C
+acct_01839,24-01-2024,campaign_C
+acct_01840,24-01-2024,campaign_C
+acct_01885,24-01-2024,campaign_C
+acct_01916,24-01-2024,campaign_C
+acct_01841,25-01-2024,campaign_C
+acct_01842,22-01-2024,campaign_C
+acct_01843,25-01-2024,campaign_C
+acct_01886,25-01-2024,campaign_C
+acct_01917,25-01-2024,campaign_C
+acct_01844,26-01-2024,campaign_C
+acct_01845,26-01-2024,campaign_C
+acct_01846,26-01-2024,campaign_C
+acct_01887,26-01-2024,campaign_C
+acct_01918,22-01-2024,campaign_C
+acct_01847,22-01-2024,campaign_C
+acct_01848,27-01-2024,campaign_C
+acct_01849,27-01-2024,campaign_C
+acct_01888,27-01-2024,campaign_C
+acct_01919,27-01-2024,campaign_C
+acct_01850,28-01-2024,campaign_C
+acct_01851,28-01-2024,campaign_C
+acct_01852,28-01-2024,campaign_C
+acct_01889,28-01-2024,campaign_C
+acct_01920,28-01-2024,campaign_C
+acct_01853,29-01-2024,campaign_C
+acct_01854,22-01-2024,campaign_C
+acct_01855,29-01-2024,campaign_C
+acct_01890,29-01-2024,campaign_C
+acct_01921,29-01-2024,campaign_C
+acct_01856,30-01-2024,campaign_C
+acct_01857,30-01-2024,campaign_C
+acct_01858,30-01-2024,campaign_C
+acct_01891,30-01-2024,campaign_C
+acct_01922,22-01-2024,campaign_C
+acct_01859,31-01-2024,campaign_C
+acct_01860,22-01-2024,campaign_C
+acct_01861,31-01-2024,campaign_C
+acct_01892,31-01-2024,campaign_C
+acct_01923,31-01-2024,campaign_C
+acct_03530,01-01-2024,campaign_C | GB
+acct_03531,01-01-2024,campaign_C | GB
+acct_03532,01-01-2024,campaign_C | GB
+acct_03533,01-01-2024,campaign_C | GB
+acct_03534,01-01-2024,campaign_C | GB
+acct_03535,01-01-2024,campaign_C | GB
+acct_03536,01-01-2024,campaign_C | GB
+acct_03537,02-01-2024,campaign_C | GB
+acct_03538,02-01-2024,campaign_C | GB
+acct_03539,01-01-2024,campaign_C | GB
+acct_03540,01-01-2024,campaign_C | GB
+acct_03541,02-01-2024,campaign_C | GB
+acct_03542,02-01-2024,campaign_C | GB
+acct_03543,03-01-2024,campaign_C | GB
+acct_03544,03-01-2024,campaign_C | GB
+acct_03545,03-01-2024,campaign_C | GB
+acct_03546,01-01-2024,campaign_C | GB
+acct_03547,03-01-2024,campaign_C | GB
+acct_03548,03-01-2024,campaign_C | GB
+acct_03549,04-01-2024,campaign_C | GB
+acct_03550,04-01-2024,campaign_C | GB
+acct_03551,04-01-2024,campaign_C | GB
+acct_03552,04-01-2024,campaign_C | GB
+acct_03553,04-01-2024,campaign_C | GB
+acct_03554,04-01-2024,campaign_C | GB
+acct_03555,04-01-2024,campaign_C | GB
+acct_03556,05-01-2024,campaign_C | GB
+acct_03557,05-01-2024,campaign_C | GB
+acct_03558,04-01-2024,campaign_C | GB
+acct_03559,05-01-2024,campaign_C | GB
+acct_03560,05-01-2024,campaign_C | GB
+acct_03561,06-01-2024,campaign_C | GB
+acct_03562,06-01-2024,campaign_C | GB
+acct_03563,06-01-2024,campaign_C | GB
+acct_03564,04-01-2024,campaign_C | GB
+acct_03565,06-01-2024,campaign_C | GB
+acct_03566,06-01-2024,campaign_C | GB
+acct_03567,07-01-2024,campaign_C | GB
+acct_03568,07-01-2024,campaign_C | GB
+acct_03569,07-01-2024,campaign_C | GB
+acct_03570,07-01-2024,campaign_C | GB
+acct_03571,07-01-2024,campaign_C | GB
+acct_03572,07-01-2024,campaign_C | GB
+acct_03573,08-01-2024,campaign_C | GB
+acct_03574,08-01-2024,campaign_C | GB
+acct_03575,08-01-2024,campaign_C | GB
+acct_03576,07-01-2024,campaign_C | GB
+acct_03577,07-01-2024,campaign_C | GB
+acct_03578,08-01-2024,campaign_C | GB
+acct_03579,09-01-2024,campaign_C | GB
+acct_03580,09-01-2024,campaign_C | GB
+acct_03581,09-01-2024,campaign_C | GB
+acct_03582,09-01-2024,campaign_C | GB
+acct_03583,09-01-2024,campaign_C | GB
+acct_03584,09-01-2024,campaign_C | GB
+acct_03585,10-01-2024,campaign_C | GB
+acct_03586,07-01-2024,campaign_C | GB
+acct_03587,10-01-2024,campaign_C | GB
+acct_03588,10-01-2024,campaign_C | GB
+acct_03589,10-01-2024,campaign_C | GB
+acct_03590,10-01-2024,campaign_C | GB
+acct_03591,11-01-2024,campaign_C | GB
+acct_03592,11-01-2024,campaign_C | GB
+acct_03593,11-01-2024,campaign_C | GB
+acct_03594,11-01-2024,campaign_C | GB
+acct_03595,11-01-2024,campaign_C | GB
+acct_03596,11-01-2024,campaign_C | GB
+acct_03597,12-01-2024,campaign_C | GB
+acct_03598,12-01-2024,campaign_C | GB
+acct_03599,12-01-2024,campaign_C | GB
+acct_03600,11-01-2024,campaign_C | GB
+acct_03601,11-01-2024,campaign_C | GB
+acct_03602,10-01-2024,campaign_C | GB
+acct_03603,13-01-2024,campaign_C | GB
+acct_03604,13-01-2024,campaign_C | GB
+acct_03605,13-01-2024,campaign_C | GB
+acct_03606,13-01-2024,campaign_C | GB
+acct_03607,10-01-2024,campaign_C | GB
+acct_03608,11-01-2024,campaign_C | GB
+acct_03609,14-01-2024,campaign_C | GB
+acct_03610,14-01-2024,campaign_C | GB
+acct_03611,14-01-2024,campaign_C | GB
+acct_03612,14-01-2024,campaign_C | GB
+acct_03613,11-01-2024,campaign_C | GB
+acct_03614,14-01-2024,campaign_C | GB
+acct_03615,15-01-2024,campaign_C | GB
+acct_03616,15-01-2024,campaign_C | GB
+acct_03617,15-01-2024,campaign_C | GB
+acct_03618,15-01-2024,campaign_C | GB
+acct_03619,15-01-2024,campaign_C | GB
+acct_03620,15-01-2024,campaign_C | GB
+acct_03621,16-01-2024,campaign_C | GB
+acct_03622,16-01-2024,campaign_C | GB
+acct_03623,16-01-2024,campaign_C | GB
+acct_03624,15-01-2024,campaign_C | GB
+acct_03625,16-01-2024,campaign_C | GB
+acct_03626,16-01-2024,campaign_C | GB
+acct_03627,17-01-2024,campaign_C | GB
+acct_03628,17-01-2024,campaign_C | GB
+acct_03629,17-01-2024,campaign_C | GB
+acct_03630,17-01-2024,campaign_C | GB
+acct_03631,15-01-2024,campaign_C | GB
+acct_03632,15-01-2024,campaign_C | GB
+acct_03633,18-01-2024,campaign_C | GB
+acct_03634,18-01-2024,campaign_C | GB
+acct_03635,18-01-2024,campaign_C | GB
+acct_03636,18-01-2024,campaign_C | GB
+acct_03637,18-01-2024,campaign_C | GB
+acct_03638,18-01-2024,campaign_C | GB
+acct_03639,19-01-2024,campaign_C | GB
+acct_03640,19-01-2024,campaign_C | GB
+acct_03641,19-01-2024,campaign_C | GB
+acct_03642,18-01-2024,campaign_C | GB
+acct_03643,18-01-2024,campaign_C | GB
+acct_03644,19-01-2024,campaign_C | GB
+acct_03645,20-01-2024,campaign_C | GB
+acct_03646,20-01-2024,campaign_C | GB
+acct_03647,20-01-2024,campaign_C | GB
+acct_03648,20-01-2024,campaign_C | GB
+acct_03649,20-01-2024,campaign_C | GB
+acct_03650,20-01-2024,campaign_C | GB
+acct_03651,21-01-2024,campaign_C | GB
+acct_03652,21-01-2024,campaign_C | GB
+acct_03653,21-01-2024,campaign_C | GB
+acct_03654,21-01-2024,campaign_C | GB
+acct_03655,21-01-2024,campaign_C | GB
+acct_03656,20-01-2024,campaign_C | GB
+acct_03657,20-01-2024,campaign_C | GB
+acct_03658,20-01-2024,campaign_C | GB
+acct_03659,22-01-2024,campaign_C | GB
+acct_03660,22-01-2024,campaign_C | GB
+acct_03661,22-01-2024,campaign_C | GB
+acct_03662,22-01-2024,campaign_C | GB
+acct_03663,23-01-2024,campaign_C | GB
+acct_03664,23-01-2024,campaign_C | GB
+acct_03665,23-01-2024,campaign_C | GB
+acct_03666,20-01-2024,campaign_C | GB
+acct_03667,23-01-2024,campaign_C | GB
+acct_03668,23-01-2024,campaign_C | GB
+acct_03669,24-01-2024,campaign_C | GB
+acct_03670,24-01-2024,campaign_C | GB
+acct_03671,24-01-2024,campaign_C | GB
+acct_03672,24-01-2024,campaign_C | GB
+acct_03673,24-01-2024,campaign_C | GB
+acct_03674,24-01-2024,campaign_C | GB
+acct_03675,25-01-2024,campaign_C | GB
+acct_03676,24-01-2024,campaign_C | GB
+acct_03677,24-01-2024,campaign_C | GB
+acct_03678,25-01-2024,campaign_C | GB
+acct_03679,25-01-2024,campaign_C | GB
+acct_03680,25-01-2024,campaign_C | GB
+acct_03681,26-01-2024,campaign_C | GB
+acct_03682,26-01-2024,campaign_C | GB
+acct_03683,26-01-2024,campaign_C | GB
+acct_03684,26-01-2024,campaign_C | GB
+acct_03685,24-01-2024,campaign_C | GB
+acct_03686,26-01-2024,campaign_C | GB
+acct_03687,27-01-2024,campaign_C | GB
+acct_03688,27-01-2024,campaign_C | GB
+acct_03689,27-01-2024,campaign_C | GB
+acct_03690,27-01-2024,campaign_C | GB
+acct_03691,24-01-2024,campaign_C | GB
+acct_03692,27-01-2024,campaign_C | GB
+acct_03693,28-01-2024,campaign_C | GB
+acct_03694,28-01-2024,campaign_C | GB
+acct_03695,28-01-2024,campaign_C | GB
+acct_03696,28-01-2024,campaign_C | GB
+acct_03697,28-01-2024,campaign_C | GB
+acct_03698,28-01-2024,campaign_C | GB
+acct_03699,24-01-2024,campaign_C | GB
+acct_03700,24-01-2024,campaign_C | GB
+acct_03701,29-01-2024,campaign_C | GB
+acct_03702,29-01-2024,campaign_C | GB
+acct_03703,29-01-2024,campaign_C | GB
+acct_03704,29-01-2024,campaign_C | GB
+acct_03705,30-01-2024,campaign_C | GB
+acct_03706,30-01-2024,campaign_C | GB
+acct_03707,30-01-2024,campaign_C | GB
+acct_03708,30-01-2024,campaign_C | GB
+acct_03709,30-01-2024,campaign_C | GB
+acct_03710,30-01-2024,campaign_C | GB
+acct_03711,31-01-2024,campaign_C | GB
+acct_03712,29-01-2024,campaign_C | GB
+acct_03713,31-01-2024,campaign_C | GB
+acct_03714,31-01-2024,campaign_C | GB
+acct_03715,31-01-2024,campaign_C | GB
+acct_03716,31-01-2024,campaign_C | GB
+acct_01924,01-01-2024,campaign_D
+acct_01925,01-01-2024,campaign_D
+acct_01926,01-01-2024,campaign_D
+acct_01927,01-01-2024,campaign_D
+acct_01928,01-01-2024,campaign_D
+acct_02051,02-01-2024,campaign_D
+acct_02052,02-01-2024,campaign_D
+acct_02053,02-01-2024,campaign_D
+acct_02054,02-01-2024,campaign_D
+acct_02055,01-01-2024,campaign_D
+acct_02056,01-01-2024,campaign_D
+acct_02237,01-01-2024,campaign_D
+acct_02268,01-01-2024,campaign_D
+acct_02299,01-01-2024,campaign_D
+acct_01929,02-01-2024,campaign_D
+acct_01930,02-01-2024,campaign_D
+acct_01931,02-01-2024,campaign_D
+acct_01932,02-01-2024,campaign_D
+acct_01933,02-01-2024,campaign_D
+acct_02057,02-01-2024,campaign_D
+acct_02058,02-01-2024,campaign_D
+acct_02059,02-01-2024,campaign_D
+acct_02060,02-01-2024,campaign_D
+acct_02061,02-01-2024,campaign_D
+acct_02062,02-01-2024,campaign_D
+acct_02238,02-01-2024,campaign_D
+acct_02269,02-01-2024,campaign_D
+acct_02300,02-01-2024,campaign_D
+acct_01934,03-01-2024,campaign_D
+acct_01935,03-01-2024,campaign_D
+acct_01936,03-01-2024,campaign_D
+acct_01937,02-01-2024,campaign_D
+acct_01938,02-01-2024,campaign_D
+acct_02063,03-01-2024,campaign_D
+acct_02064,03-01-2024,campaign_D
+acct_02065,03-01-2024,campaign_D
+acct_02066,03-01-2024,campaign_D
+acct_02067,03-01-2024,campaign_D
+acct_02068,03-01-2024,campaign_D
+acct_02239,03-01-2024,campaign_D
+acct_02270,03-01-2024,campaign_D
+acct_02301,03-01-2024,campaign_D
+acct_01939,04-01-2024,campaign_D
+acct_01940,04-01-2024,campaign_D
+acct_01941,04-01-2024,campaign_D
+acct_01942,04-01-2024,campaign_D
+acct_02069,04-01-2024,campaign_D
+acct_02070,04-01-2024,campaign_D
+acct_02071,04-01-2024,campaign_D
+acct_02072,04-01-2024,campaign_D
+acct_02073,04-01-2024,campaign_D
+acct_02074,04-01-2024,campaign_D
+acct_02240,04-01-2024,campaign_D
+acct_02271,04-01-2024,campaign_D
+acct_02302,04-01-2024,campaign_D
+acct_01943,05-01-2024,campaign_D
+acct_01944,04-01-2024,campaign_D
+acct_01945,04-01-2024,campaign_D
+acct_01946,05-01-2024,campaign_D
+acct_02075,05-01-2024,campaign_D
+acct_02076,05-01-2024,campaign_D
+acct_02077,05-01-2024,campaign_D
+acct_02078,05-01-2024,campaign_D
+acct_02079,05-01-2024,campaign_D
+acct_02080,05-01-2024,campaign_D
+acct_02241,05-01-2024,campaign_D
+acct_02272,05-01-2024,campaign_D
+acct_02303,05-01-2024,campaign_D
+acct_01947,06-01-2024,campaign_D
+acct_01948,06-01-2024,campaign_D
+acct_01949,06-01-2024,campaign_D
+acct_01950,06-01-2024,campaign_D
+acct_02081,06-01-2024,campaign_D
+acct_02082,06-01-2024,campaign_D
+acct_02083,06-01-2024,campaign_D
+acct_02084,06-01-2024,campaign_D
+acct_02085,06-01-2024,campaign_D
+acct_02086,06-01-2024,campaign_D
+acct_02242,06-01-2024,campaign_D
+acct_02273,06-01-2024,campaign_D
+acct_02304,06-01-2024,campaign_D
+acct_01951,07-01-2024,campaign_D
+acct_01952,07-01-2024,campaign_D
+acct_01953,07-01-2024,campaign_D
+acct_01954,07-01-2024,campaign_D
+acct_02087,07-01-2024,campaign_D
+acct_02088,07-01-2024,campaign_D
+acct_02089,07-01-2024,campaign_D
+acct_02090,07-01-2024,campaign_D
+acct_02091,07-01-2024,campaign_D
+acct_02092,07-01-2024,campaign_D
+acct_02243,07-01-2024,campaign_D
+acct_02274,07-01-2024,campaign_D
+acct_02305,07-01-2024,campaign_D
+acct_01955,08-01-2024,campaign_D
+acct_01956,08-01-2024,campaign_D
+acct_01957,06-01-2024,campaign_D
+acct_01958,07-01-2024,campaign_D
+acct_02093,06-01-2024,campaign_D
+acct_02094,07-01-2024,campaign_D
+acct_02095,08-01-2024,campaign_D
+acct_02096,08-01-2024,campaign_D
+acct_02097,08-01-2024,campaign_D
+acct_02098,08-01-2024,campaign_D
+acct_02244,08-01-2024,campaign_D
+acct_02275,08-01-2024,campaign_D
+acct_02306,08-01-2024,campaign_D
+acct_01959,09-01-2024,campaign_D
+acct_01960,09-01-2024,campaign_D
+acct_01961,09-01-2024,campaign_D
+acct_01962,09-01-2024,campaign_D
+acct_02099,09-01-2024,campaign_D
+acct_02100,09-01-2024,campaign_D
+acct_02101,09-01-2024,campaign_D
+acct_02102,09-01-2024,campaign_D
+acct_02103,09-01-2024,campaign_D
+acct_02104,09-01-2024,campaign_D
+acct_02245,09-01-2024,campaign_D
+acct_02276,09-01-2024,campaign_D
+acct_02307,09-01-2024,campaign_D
+acct_01963,10-01-2024,campaign_D
+acct_01964,10-01-2024,campaign_D
+acct_01965,10-01-2024,campaign_D
+acct_01966,10-01-2024,campaign_D
+acct_02105,10-01-2024,campaign_D
+acct_02106,10-01-2024,campaign_D
+acct_02107,10-01-2024,campaign_D
+acct_02108,10-01-2024,campaign_D
+acct_02109,10-01-2024,campaign_D
+acct_02110,10-01-2024,campaign_D
+acct_02246,10-01-2024,campaign_D
+acct_02277,10-01-2024,campaign_D
+acct_02308,10-01-2024,campaign_D
+acct_01967,11-01-2024,campaign_D
+acct_01968,10-01-2024,campaign_D
+acct_01969,10-01-2024,campaign_D
+acct_01970,10-01-2024,campaign_D
+acct_02111,11-01-2024,campaign_D
+acct_02112,11-01-2024,campaign_D
+acct_02113,11-01-2024,campaign_D
+acct_02114,11-01-2024,campaign_D
+acct_02115,11-01-2024,campaign_D
+acct_02116,11-01-2024,campaign_D
+acct_02247,11-01-2024,campaign_D
+acct_02278,11-01-2024,campaign_D
+acct_02309,11-01-2024,campaign_D
+acct_01971,12-01-2024,campaign_D
+acct_01972,12-01-2024,campaign_D
+acct_01973,12-01-2024,campaign_D
+acct_01974,12-01-2024,campaign_D
+acct_02117,12-01-2024,campaign_D
+acct_02118,12-01-2024,campaign_D
+acct_02119,12-01-2024,campaign_D
+acct_02120,12-01-2024,campaign_D
+acct_02121,12-01-2024,campaign_D
+acct_02122,13-01-2024,campaign_D
+acct_02248,13-01-2024,campaign_D
+acct_02279,13-01-2024,campaign_D
+acct_02310,12-01-2024,campaign_D
+acct_01975,13-01-2024,campaign_D
+acct_01976,13-01-2024,campaign_D
+acct_01977,13-01-2024,campaign_D
+acct_01978,13-01-2024,campaign_D
+acct_02123,13-01-2024,campaign_D
+acct_02124,13-01-2024,campaign_D
+acct_02125,13-01-2024,campaign_D
+acct_02126,13-01-2024,campaign_D
+acct_02127,13-01-2024,campaign_D
+acct_02128,13-01-2024,campaign_D
+acct_02249,13-01-2024,campaign_D
+acct_02280,13-01-2024,campaign_D
+acct_02311,13-01-2024,campaign_D
+acct_01979,14-01-2024,campaign_D
+acct_01980,14-01-2024,campaign_D
+acct_01981,14-01-2024,campaign_D
+acct_01982,14-01-2024,campaign_D
+acct_02129,14-01-2024,campaign_D
+acct_02130,14-01-2024,campaign_D
+acct_02131,14-01-2024,campaign_D
+acct_02132,13-01-2024,campaign_D
+acct_02133,13-01-2024,campaign_D
+acct_02134,14-01-2024,campaign_D
+acct_02250,14-01-2024,campaign_D
+acct_02281,14-01-2024,campaign_D
+acct_02312,14-01-2024,campaign_D
+acct_01983,15-01-2024,campaign_D
+acct_01984,15-01-2024,campaign_D
+acct_01985,15-01-2024,campaign_D
+acct_01986,15-01-2024,campaign_D
+acct_02135,15-01-2024,campaign_D
+acct_02136,15-01-2024,campaign_D
+acct_02137,15-01-2024,campaign_D
+acct_02138,16-01-2024,campaign_D
+acct_02139,16-01-2024,campaign_D
+acct_02140,15-01-2024,campaign_D
+acct_02251,15-01-2024,campaign_D
+acct_02282,15-01-2024,campaign_D
+acct_02313,15-01-2024,campaign_D
+acct_01987,16-01-2024,campaign_D
+acct_01988,16-01-2024,campaign_D
+acct_01989,16-01-2024,campaign_D
+acct_01990,16-01-2024,campaign_D
+acct_02141,16-01-2024,campaign_D
+acct_02142,16-01-2024,campaign_D
+acct_02143,16-01-2024,campaign_D
+acct_02144,16-01-2024,campaign_D
+acct_02145,16-01-2024,campaign_D
+acct_02146,16-01-2024,campaign_D
+acct_02252,16-01-2024,campaign_D
+acct_02283,16-01-2024,campaign_D
+acct_02314,16-01-2024,campaign_D
+acct_01991,17-01-2024,campaign_D
+acct_01992,17-01-2024,campaign_D
+acct_01993,16-01-2024,campaign_D
+acct_01994,17-01-2024,campaign_D
+acct_02147,17-01-2024,campaign_D
+acct_02148,17-01-2024,campaign_D
+acct_02149,17-01-2024,campaign_D
+acct_02150,17-01-2024,campaign_D
+acct_02151,17-01-2024,campaign_D
+acct_02152,17-01-2024,campaign_D
+acct_02253,17-01-2024,campaign_D
+acct_02284,17-01-2024,campaign_D
+acct_02315,17-01-2024,campaign_D
+acct_01995,18-01-2024,campaign_D
+acct_01996,18-01-2024,campaign_D
+acct_01997,18-01-2024,campaign_D
+acct_01998,18-01-2024,campaign_D
+acct_02153,18-01-2024,campaign_D
+acct_02154,18-01-2024,campaign_D
+acct_02155,18-01-2024,campaign_D
+acct_02156,18-01-2024,campaign_D
+acct_02157,18-01-2024,campaign_D
+acct_02158,18-01-2024,campaign_D
+acct_02254,18-01-2024,campaign_D
+acct_02285,18-01-2024,campaign_D
+acct_02316,18-01-2024,campaign_D
+acct_01999,19-01-2024,campaign_D
+acct_02000,19-01-2024,campaign_D
+acct_02001,19-01-2024,campaign_D
+acct_02002,19-01-2024,campaign_D
+acct_02159,19-01-2024,campaign_D
+acct_02160,19-01-2024,campaign_D
+acct_02161,19-01-2024,campaign_D
+acct_02162,19-01-2024,campaign_D
+acct_02163,19-01-2024,campaign_D
+acct_02164,19-01-2024,campaign_D
+acct_02255,19-01-2024,campaign_D
+acct_02286,19-01-2024,campaign_D
+acct_02317,19-01-2024,campaign_D
+acct_02003,20-01-2024,campaign_D
+acct_02004,20-01-2024,campaign_D
+acct_02005,20-01-2024,campaign_D
+acct_02006,20-01-2024,campaign_D
+acct_02165,20-01-2024,campaign_D
+acct_02166,20-01-2024,campaign_D
+acct_02167,18-01-2024,campaign_D
+acct_02168,19-01-2024,campaign_D
+acct_02169,18-01-2024,campaign_D
+acct_02170,19-01-2024,campaign_D
+acct_02256,20-01-2024,campaign_D
+acct_02287,20-01-2024,campaign_D
+acct_02318,20-01-2024,campaign_D
+acct_02007,21-01-2024,campaign_D
+acct_02008,21-01-2024,campaign_D
+acct_02009,19-01-2024,campaign_D
+acct_02010,19-01-2024,campaign_D
+acct_02171,21-01-2024,campaign_D
+acct_02172,21-01-2024,campaign_D
+acct_02173,21-01-2024,campaign_D
+acct_02174,21-01-2024,campaign_D
+acct_02175,21-01-2024,campaign_D
+acct_02176,21-01-2024,campaign_D
+acct_02257,21-01-2024,campaign_D
+acct_02288,21-01-2024,campaign_D
+acct_02319,21-01-2024,campaign_D
+acct_02011,22-01-2024,campaign_D
+acct_02012,22-01-2024,campaign_D
+acct_02013,22-01-2024,campaign_D
+acct_02014,22-01-2024,campaign_D
+acct_02177,22-01-2024,campaign_D
+acct_02178,22-01-2024,campaign_D
+acct_02179,22-01-2024,campaign_D
+acct_02180,22-01-2024,campaign_D
+acct_02181,22-01-2024,campaign_D
+acct_02182,22-01-2024,campaign_D
+acct_02258,22-01-2024,campaign_D
+acct_02289,22-01-2024,campaign_D
+acct_02320,22-01-2024,campaign_D
+acct_02015,23-01-2024,campaign_D
+acct_02016,22-01-2024,campaign_D
+acct_02017,22-01-2024,campaign_D
+acct_02018,22-01-2024,campaign_D
+acct_02183,23-01-2024,campaign_D
+acct_02184,23-01-2024,campaign_D
+acct_02185,23-01-2024,campaign_D
+acct_02186,23-01-2024,campaign_D
+acct_02187,23-01-2024,campaign_D
+acct_02188,23-01-2024,campaign_D
+acct_02259,23-01-2024,campaign_D
+acct_02290,23-01-2024,campaign_D
+acct_02321,23-01-2024,campaign_D
+acct_02019,24-01-2024,campaign_D
+acct_02020,24-01-2024,campaign_D
+acct_02021,24-01-2024,campaign_D
+acct_02022,24-01-2024,campaign_D
+acct_02189,24-01-2024,campaign_D
+acct_02190,24-01-2024,campaign_D
+acct_02191,24-01-2024,campaign_D
+acct_02192,24-01-2024,campaign_D
+acct_02193,24-01-2024,campaign_D
+acct_02194,24-01-2024,campaign_D
+acct_02260,24-01-2024,campaign_D
+acct_02291,24-01-2024,campaign_D
+acct_02322,24-01-2024,campaign_D
+acct_02023,25-01-2024,campaign_D
+acct_02024,25-01-2024,campaign_D
+acct_02025,25-01-2024,campaign_D
+acct_02026,25-01-2024,campaign_D
+acct_02195,25-01-2024,campaign_D
+acct_02196,25-01-2024,campaign_D
+acct_02197,25-01-2024,campaign_D
+acct_02198,25-01-2024,campaign_D
+acct_02199,25-01-2024,campaign_D
+acct_02200,25-01-2024,campaign_D
+acct_02261,25-01-2024,campaign_D
+acct_02292,25-01-2024,campaign_D
+acct_02323,25-01-2024,campaign_D
+acct_02027,26-01-2024,campaign_D
+acct_02028,26-01-2024,campaign_D
+acct_02029,26-01-2024,campaign_D
+acct_02030,26-01-2024,campaign_D
+acct_02201,26-01-2024,campaign_D
+acct_02202,26-01-2024,campaign_D
+acct_02203,26-01-2024,campaign_D
+acct_02204,26-01-2024,campaign_D
+acct_02205,24-01-2024,campaign_D
+acct_02206,24-01-2024,campaign_D
+acct_02262,24-01-2024,campaign_D
+acct_02293,24-01-2024,campaign_D
+acct_02324,25-01-2024,campaign_D
+acct_02031,27-01-2024,campaign_D
+acct_02032,27-01-2024,campaign_D
+acct_02033,27-01-2024,campaign_D
+acct_02034,27-01-2024,campaign_D
+acct_02207,27-01-2024,campaign_D
+acct_02208,27-01-2024,campaign_D
+acct_02209,27-01-2024,campaign_D
+acct_02210,27-01-2024,campaign_D
+acct_02211,27-01-2024,campaign_D
+acct_02212,27-01-2024,campaign_D
+acct_02263,27-01-2024,campaign_D
+acct_02294,27-01-2024,campaign_D
+acct_02325,27-01-2024,campaign_D
+acct_02035,28-01-2024,campaign_D
+acct_02036,28-01-2024,campaign_D
+acct_02037,28-01-2024,campaign_D
+acct_02038,28-01-2024,campaign_D
+acct_02213,28-01-2024,campaign_D
+acct_02214,28-01-2024,campaign_D
+acct_02215,28-01-2024,campaign_D
+acct_02216,28-01-2024,campaign_D
+acct_02217,28-01-2024,campaign_D
+acct_02218,28-01-2024,campaign_D
+acct_02264,28-01-2024,campaign_D
+acct_02295,28-01-2024,campaign_D
+acct_02326,28-01-2024,campaign_D
+acct_02039,29-01-2024,campaign_D
+acct_02040,29-01-2024,campaign_D
+acct_02041,29-01-2024,campaign_D
+acct_02042,29-01-2024,campaign_D
+acct_02219,29-01-2024,campaign_D
+acct_02220,29-01-2024,campaign_D
+acct_02221,29-01-2024,campaign_D
+acct_02222,29-01-2024,campaign_D
+acct_02223,29-01-2024,campaign_D
+acct_02224,29-01-2024,campaign_D
+acct_02265,29-01-2024,campaign_D
+acct_02296,28-01-2024,campaign_D
+acct_02327,28-01-2024,campaign_D
+acct_02043,31-01-2024,campaign_D
+acct_02044,31-01-2024,campaign_D
+acct_02045,31-01-2024,campaign_D
+acct_02046,30-01-2024,campaign_D
+acct_02225,30-01-2024,campaign_D
+acct_02226,30-01-2024,campaign_D
+acct_02227,30-01-2024,campaign_D
+acct_02228,30-01-2024,campaign_D
+acct_02229,30-01-2024,campaign_D
+acct_02230,30-01-2024,campaign_D
+acct_02266,30-01-2024,campaign_D
+acct_02297,30-01-2024,campaign_D
+acct_02328,30-01-2024,campaign_D
+acct_02047,31-01-2024,campaign_D
+acct_02048,31-01-2024,campaign_D
+acct_02049,31-01-2024,campaign_D
+acct_02050,31-01-2024,campaign_D
+acct_02231,31-01-2024,campaign_D
+acct_02232,31-01-2024,campaign_D
+acct_02233,31-01-2024,campaign_D
+acct_02234,31-01-2024,campaign_D
+acct_02235,31-01-2024,campaign_D
+acct_02236,31-01-2024,campaign_D
+acct_02267,31-01-2024,campaign_D
+acct_02298,31-01-2024,campaign_D
+acct_02329,31-01-2024,campaign_D
+acct_03904,01-01-2024,campaign_D | GB
+acct_03905,01-01-2024,campaign_D | GB
+acct_03906,01-01-2024,campaign_D | GB
+acct_03907,01-01-2024,campaign_D | GB
+acct_03908,01-01-2024,campaign_D | GB
+acct_03909,02-01-2024,campaign_D | GB
+acct_03910,03-01-2024,campaign_D | GB
+acct_03911,03-01-2024,campaign_D | GB
+acct_03912,01-01-2024,campaign_D | GB
+acct_03913,04-01-2024,campaign_D | GB
+acct_03914,04-01-2024,campaign_D | GB
+acct_03915,04-01-2024,campaign_D | GB
+acct_03916,05-01-2024,campaign_D | GB
+acct_03917,04-01-2024,campaign_D | GB
+acct_03918,05-01-2024,campaign_D | GB
+acct_03919,06-01-2024,campaign_D | GB
+acct_03920,04-01-2024,campaign_D | GB
+acct_03921,04-01-2024,campaign_D | GB
+acct_03922,04-01-2024,campaign_D | GB
+acct_03923,04-01-2024,campaign_D | GB
+acct_03924,07-01-2024,campaign_D | GB
+acct_03925,08-01-2024,campaign_D | GB
+acct_03926,08-01-2024,campaign_D | GB
+acct_03927,08-01-2024,campaign_D | GB
+acct_03928,09-01-2024,campaign_D | GB
+acct_03929,09-01-2024,campaign_D | GB
+acct_03930,09-01-2024,campaign_D | GB
+acct_03931,10-01-2024,campaign_D | GB
+acct_03932,08-01-2024,campaign_D | GB
+acct_03933,08-01-2024,campaign_D | GB
+acct_03934,08-01-2024,campaign_D | GB
+acct_03935,11-01-2024,campaign_D | GB
+acct_03936,11-01-2024,campaign_D | GB
+acct_03937,12-01-2024,campaign_D | GB
+acct_03938,08-01-2024,campaign_D | GB
+acct_03939,12-01-2024,campaign_D | GB
+acct_03940,13-01-2024,campaign_D | GB
+acct_03941,13-01-2024,campaign_D | GB
+acct_03942,13-01-2024,campaign_D | GB
+acct_03943,13-01-2024,campaign_D | GB
+acct_03944,14-01-2024,campaign_D | GB
+acct_03945,14-01-2024,campaign_D | GB
+acct_03946,13-01-2024,campaign_D | GB
+acct_03947,15-01-2024,campaign_D | GB
+acct_03948,15-01-2024,campaign_D | GB
+acct_03949,16-01-2024,campaign_D | GB
+acct_03950,16-01-2024,campaign_D | GB
+acct_03951,16-01-2024,campaign_D | GB
+acct_03952,17-01-2024,campaign_D | GB
+acct_03953,16-01-2024,campaign_D | GB
+acct_03954,17-01-2024,campaign_D | GB
+acct_03955,18-01-2024,campaign_D | GB
+acct_03956,18-01-2024,campaign_D | GB
+acct_03957,18-01-2024,campaign_D | GB
+acct_03958,19-01-2024,campaign_D | GB
+acct_03959,18-01-2024,campaign_D | GB
+acct_03960,19-01-2024,campaign_D | GB
+acct_03961,20-01-2024,campaign_D | GB
+acct_03962,18-01-2024,campaign_D | GB
+acct_03963,20-01-2024,campaign_D | GB
+acct_03964,21-01-2024,campaign_D | GB
+acct_03965,18-01-2024,campaign_D | GB
+acct_03966,21-01-2024,campaign_D | GB
+acct_03967,22-01-2024,campaign_D | GB
+acct_03968,22-01-2024,campaign_D | GB
+acct_03969,22-01-2024,campaign_D | GB
+acct_03970,22-01-2024,campaign_D | GB
+acct_03971,23-01-2024,campaign_D | GB
+acct_03972,23-01-2024,campaign_D | GB
+acct_03973,24-01-2024,campaign_D | GB
+acct_03974,24-01-2024,campaign_D | GB
+acct_03975,22-01-2024,campaign_D | GB
+acct_03976,25-01-2024,campaign_D | GB
+acct_03977,25-01-2024,campaign_D | GB
+acct_03978,25-01-2024,campaign_D | GB
+acct_03979,26-01-2024,campaign_D | GB
+acct_03980,25-01-2024,campaign_D | GB
+acct_03981,26-01-2024,campaign_D | GB
+acct_03982,27-01-2024,campaign_D | GB
+acct_03983,27-01-2024,campaign_D | GB
+acct_03984,27-01-2024,campaign_D | GB
+acct_03985,25-01-2024,campaign_D | GB
+acct_03986,28-01-2024,campaign_D | GB
+acct_03987,28-01-2024,campaign_D | GB
+acct_03988,29-01-2024,campaign_D | GB
+acct_03989,29-01-2024,campaign_D | GB
+acct_03990,25-01-2024,campaign_D | GB
+acct_03991,30-01-2024,campaign_D | GB
+acct_03992,30-01-2024,campaign_D | GB
+acct_03993,30-01-2024,campaign_D | GB
+acct_03994,31-01-2024,campaign_D | GB
+acct_03995,30-01-2024,campaign_D | GB
+acct_03996,31-01-2024,campaign_D | GB
+acct_04283,01-01-2024,Organic
+acct_04286,01-01-2024,Organic
+acct_04287,01-01-2024,Organic
+acct_04288,01-01-2024,Organic
+acct_04289,01-01-2024,Organic
+acct_04290,01-01-2024,Organic
+acct_04291,01-01-2024,Organic
+acct_04292,01-01-2024,Organic
+acct_04293,01-01-2024,Organic
+acct_04294,01-01-2024,Organic
+acct_04295,01-01-2024,Organic
+acct_04296,01-01-2024,Organic
+acct_04297,01-01-2024,Organic
+acct_04298,01-01-2024,Organic
+acct_04299,01-01-2024,Organic
+acct_04300,01-01-2024,Organic
+acct_04301,01-01-2024,Organic
+acct_04752,01-01-2024,Organic
+acct_04753,01-01-2024,Organic
+acct_04754,01-01-2024,Organic
+acct_04755,01-01-2024,Organic
+acct_04756,01-01-2024,Organic
+acct_04757,01-01-2024,Organic
+acct_04758,01-01-2024,Organic
+acct_04759,01-01-2024,Organic
+acct_04760,01-01-2024,Organic
+acct_04761,01-01-2024,Organic
+acct_04762,01-01-2024,Organic
+acct_04763,01-01-2024,Organic
+acct_04764,01-01-2024,Organic
+acct_04765,01-01-2024,Organic
+acct_04766,01-01-2024,Organic
+acct_05317,01-01-2024,Organic
+acct_05318,01-01-2024,Organic
+acct_05319,01-01-2024,Organic
+acct_05320,01-01-2024,Organic
+acct_05321,01-01-2024,Organic
+acct_05322,01-01-2024,Organic
+acct_05323,01-01-2024,Organic
+acct_05324,01-01-2024,Organic
+acct_05325,01-01-2024,Organic
+acct_05326,01-01-2024,Organic
+acct_05327,01-01-2024,Organic
+acct_05328,01-01-2024,Organic
+acct_05329,01-01-2024,Organic
+acct_05330,01-01-2024,Organic
+acct_05331,01-01-2024,Organic
+acct_04302,02-01-2024,Organic
+acct_04303,02-01-2024,Organic
+acct_04304,02-01-2024,Organic
+acct_04305,02-01-2024,Organic
+acct_04306,02-01-2024,Organic
+acct_04307,02-01-2024,Organic
+acct_04308,02-01-2024,Organic
+acct_04309,02-01-2024,Organic
+acct_04310,02-01-2024,Organic
+acct_04311,02-01-2024,Organic
+acct_04312,02-01-2024,Organic
+acct_04313,02-01-2024,Organic
+acct_04314,02-01-2024,Organic
+acct_04315,02-01-2024,Organic
+acct_04316,02-01-2024,Organic
+acct_04767,02-01-2024,Organic
+acct_04768,02-01-2024,Organic
+acct_04769,02-01-2024,Organic
+acct_04770,02-01-2024,Organic
+acct_04771,02-01-2024,Organic
+acct_04772,02-01-2024,Organic
+acct_04773,02-01-2024,Organic
+acct_04774,02-01-2024,Organic
+acct_04775,02-01-2024,Organic
+acct_04776,02-01-2024,Organic
+acct_04777,02-01-2024,Organic
+acct_04778,02-01-2024,Organic
+acct_04779,02-01-2024,Organic
+acct_04780,02-01-2024,Organic
+acct_04781,02-01-2024,Organic
+acct_05332,02-01-2024,Organic
+acct_05333,02-01-2024,Organic
+acct_05334,02-01-2024,Organic
+acct_05335,02-01-2024,Organic
+acct_05336,02-01-2024,Organic
+acct_05337,02-01-2024,Organic
+acct_05338,02-01-2024,Organic
+acct_05339,02-01-2024,Organic
+acct_05340,02-01-2024,Organic
+acct_05341,02-01-2024,Organic
+acct_05342,02-01-2024,Organic
+acct_05343,02-01-2024,Organic
+acct_05344,02-01-2024,Organic
+acct_05345,02-01-2024,Organic
+acct_05346,02-01-2024,Organic
+acct_04317,03-01-2024,Organic
+acct_04318,03-01-2024,Organic
+acct_04319,03-01-2024,Organic
+acct_04320,03-01-2024,Organic
+acct_04321,03-01-2024,Organic
+acct_04322,03-01-2024,Organic
+acct_04323,03-01-2024,Organic
+acct_04324,03-01-2024,Organic
+acct_04325,03-01-2024,Organic
+acct_04326,03-01-2024,Organic
+acct_04327,03-01-2024,Organic
+acct_04328,03-01-2024,Organic
+acct_04329,03-01-2024,Organic
+acct_04330,03-01-2024,Organic
+acct_04331,03-01-2024,Organic
+acct_04782,03-01-2024,Organic
+acct_04783,03-01-2024,Organic
+acct_04784,03-01-2024,Organic
+acct_04785,03-01-2024,Organic
+acct_04786,03-01-2024,Organic
+acct_04787,03-01-2024,Organic
+acct_04788,03-01-2024,Organic
+acct_04789,03-01-2024,Organic
+acct_04790,03-01-2024,Organic
+acct_04791,03-01-2024,Organic
+acct_04792,03-01-2024,Organic
+acct_04793,03-01-2024,Organic
+acct_04794,03-01-2024,Organic
+acct_04795,03-01-2024,Organic
+acct_04796,03-01-2024,Organic
+acct_05347,03-01-2024,Organic
+acct_05348,03-01-2024,Organic
+acct_05349,03-01-2024,Organic
+acct_05350,03-01-2024,Organic
+acct_05351,03-01-2024,Organic
+acct_05352,03-01-2024,Organic
+acct_05353,03-01-2024,Organic
+acct_05354,03-01-2024,Organic
+acct_05355,03-01-2024,Organic
+acct_05356,03-01-2024,Organic
+acct_05357,03-01-2024,Organic
+acct_05358,03-01-2024,Organic
+acct_05359,03-01-2024,Organic
+acct_05360,03-01-2024,Organic
+acct_05361,03-01-2024,Organic
+acct_04332,04-01-2024,Organic
+acct_04333,04-01-2024,Organic
+acct_04334,04-01-2024,Organic
+acct_04335,04-01-2024,Organic
+acct_04336,04-01-2024,Organic
+acct_04337,04-01-2024,Organic
+acct_04338,04-01-2024,Organic
+acct_04339,04-01-2024,Organic
+acct_04340,04-01-2024,Organic
+acct_04341,04-01-2024,Organic
+acct_04342,04-01-2024,Organic
+acct_04343,04-01-2024,Organic
+acct_04344,04-01-2024,Organic
+acct_04345,04-01-2024,Organic
+acct_04346,04-01-2024,Organic
+acct_04797,04-01-2024,Organic
+acct_04798,04-01-2024,Organic
+acct_04799,04-01-2024,Organic
+acct_04800,04-01-2024,Organic
+acct_04801,04-01-2024,Organic
+acct_04802,04-01-2024,Organic
+acct_04803,04-01-2024,Organic
+acct_04804,04-01-2024,Organic
+acct_04805,04-01-2024,Organic
+acct_04806,04-01-2024,Organic
+acct_04807,04-01-2024,Organic
+acct_04808,04-01-2024,Organic
+acct_04809,04-01-2024,Organic
+acct_04810,04-01-2024,Organic
+acct_04811,04-01-2024,Organic
+acct_05362,04-01-2024,Organic
+acct_05363,04-01-2024,Organic
+acct_05364,04-01-2024,Organic
+acct_05365,04-01-2024,Organic
+acct_05366,04-01-2024,Organic
+acct_05367,04-01-2024,Organic
+acct_05368,04-01-2024,Organic
+acct_05369,04-01-2024,Organic
+acct_05370,04-01-2024,Organic
+acct_05371,04-01-2024,Organic
+acct_05372,04-01-2024,Organic
+acct_05373,04-01-2024,Organic
+acct_05374,04-01-2024,Organic
+acct_05375,04-01-2024,Organic
+acct_05376,04-01-2024,Organic
+acct_04284,05-01-2024,Organic
+acct_04285,05-01-2024,Organic
+acct_04347,05-01-2024,Organic
+acct_04348,05-01-2024,Organic
+acct_04349,05-01-2024,Organic
+acct_04350,05-01-2024,Organic
+acct_04351,05-01-2024,Organic
+acct_04352,05-01-2024,Organic
+acct_04353,05-01-2024,Organic
+acct_04354,05-01-2024,Organic
+acct_04355,05-01-2024,Organic
+acct_04356,05-01-2024,Organic
+acct_04357,05-01-2024,Organic
+acct_04358,05-01-2024,Organic
+acct_04359,05-01-2024,Organic
+acct_04360,05-01-2024,Organic
+acct_04361,05-01-2024,Organic
+acct_04812,05-01-2024,Organic
+acct_04813,05-01-2024,Organic
+acct_04814,05-01-2024,Organic
+acct_04815,05-01-2024,Organic
+acct_04816,05-01-2024,Organic
+acct_04817,05-01-2024,Organic
+acct_04818,05-01-2024,Organic
+acct_04819,05-01-2024,Organic
+acct_04820,05-01-2024,Organic
+acct_04821,05-01-2024,Organic
+acct_04822,05-01-2024,Organic
+acct_04823,05-01-2024,Organic
+acct_04824,05-01-2024,Organic
+acct_04825,05-01-2024,Organic
+acct_04826,05-01-2024,Organic
+acct_05377,05-01-2024,Organic
+acct_05378,05-01-2024,Organic
+acct_05379,05-01-2024,Organic
+acct_05380,05-01-2024,Organic
+acct_05381,05-01-2024,Organic
+acct_05382,05-01-2024,Organic
+acct_05383,05-01-2024,Organic
+acct_05384,05-01-2024,Organic
+acct_05385,05-01-2024,Organic
+acct_05386,05-01-2024,Organic
+acct_05387,05-01-2024,Organic
+acct_05388,05-01-2024,Organic
+acct_05389,05-01-2024,Organic
+acct_05390,05-01-2024,Organic
+acct_05391,05-01-2024,Organic
+acct_04362,06-01-2024,Organic
+acct_04363,06-01-2024,Organic
+acct_04364,06-01-2024,Organic
+acct_04365,06-01-2024,Organic
+acct_04366,06-01-2024,Organic
+acct_04367,06-01-2024,Organic
+acct_04368,06-01-2024,Organic
+acct_04369,06-01-2024,Organic
+acct_04370,06-01-2024,Organic
+acct_04371,06-01-2024,Organic
+acct_04372,06-01-2024,Organic
+acct_04373,06-01-2024,Organic
+acct_04374,06-01-2024,Organic
+acct_04375,06-01-2024,Organic
+acct_04376,06-01-2024,Organic
+acct_04827,06-01-2024,Organic
+acct_04828,06-01-2024,Organic
+acct_04829,06-01-2024,Organic
+acct_04830,06-01-2024,Organic
+acct_04831,06-01-2024,Organic
+acct_04832,06-01-2024,Organic
+acct_04833,06-01-2024,Organic
+acct_04834,06-01-2024,Organic
+acct_04835,06-01-2024,Organic
+acct_04836,06-01-2024,Organic
+acct_04837,06-01-2024,Organic
+acct_04838,06-01-2024,Organic
+acct_04839,06-01-2024,Organic
+acct_04840,06-01-2024,Organic
+acct_04841,06-01-2024,Organic
+acct_05392,06-01-2024,Organic
+acct_05393,06-01-2024,Organic
+acct_05394,06-01-2024,Organic
+acct_05395,06-01-2024,Organic
+acct_05396,06-01-2024,Organic
+acct_05397,06-01-2024,Organic
+acct_05398,06-01-2024,Organic
+acct_05399,06-01-2024,Organic
+acct_05400,06-01-2024,Organic
+acct_05401,06-01-2024,Organic
+acct_05402,06-01-2024,Organic
+acct_05403,06-01-2024,Organic
+acct_05404,06-01-2024,Organic
+acct_05405,06-01-2024,Organic
+acct_05406,06-01-2024,Organic
+acct_04377,07-01-2024,Organic
+acct_04378,07-01-2024,Organic
+acct_04379,07-01-2024,Organic
+acct_04380,07-01-2024,Organic
+acct_04381,07-01-2024,Organic
+acct_04382,07-01-2024,Organic
+acct_04383,07-01-2024,Organic
+acct_04384,07-01-2024,Organic
+acct_04385,07-01-2024,Organic
+acct_04386,07-01-2024,Organic
+acct_04387,07-01-2024,Organic
+acct_04388,07-01-2024,Organic
+acct_04389,07-01-2024,Organic
+acct_04390,07-01-2024,Organic
+acct_04391,07-01-2024,Organic
+acct_04842,07-01-2024,Organic
+acct_04843,07-01-2024,Organic
+acct_04844,07-01-2024,Organic
+acct_04845,07-01-2024,Organic
+acct_04846,07-01-2024,Organic
+acct_04847,07-01-2024,Organic
+acct_04848,07-01-2024,Organic
+acct_04849,07-01-2024,Organic
+acct_04850,07-01-2024,Organic
+acct_04851,07-01-2024,Organic
+acct_04852,07-01-2024,Organic
+acct_04853,07-01-2024,Organic
+acct_04854,07-01-2024,Organic
+acct_04855,07-01-2024,Organic
+acct_04856,07-01-2024,Organic
+acct_05407,07-01-2024,Organic
+acct_05408,07-01-2024,Organic
+acct_05409,07-01-2024,Organic
+acct_05410,07-01-2024,Organic
+acct_05411,07-01-2024,Organic
+acct_05412,07-01-2024,Organic
+acct_05413,07-01-2024,Organic
+acct_05414,07-01-2024,Organic
+acct_05415,07-01-2024,Organic
+acct_05416,07-01-2024,Organic
+acct_05417,07-01-2024,Organic
+acct_05418,07-01-2024,Organic
+acct_05419,07-01-2024,Organic
+acct_05420,07-01-2024,Organic
+acct_05421,07-01-2024,Organic
+acct_04392,08-01-2024,Organic
+acct_04393,08-01-2024,Organic
+acct_04394,08-01-2024,Organic
+acct_04395,08-01-2024,Organic
+acct_04396,08-01-2024,Organic
+acct_04397,08-01-2024,Organic
+acct_04398,08-01-2024,Organic
+acct_04399,08-01-2024,Organic
+acct_04400,08-01-2024,Organic
+acct_04401,08-01-2024,Organic
+acct_04402,08-01-2024,Organic
+acct_04403,08-01-2024,Organic
+acct_04404,08-01-2024,Organic
+acct_04405,08-01-2024,Organic
+acct_04406,08-01-2024,Organic
+acct_04857,08-01-2024,Organic
+acct_04858,08-01-2024,Organic
+acct_04859,08-01-2024,Organic
+acct_04860,08-01-2024,Organic
+acct_04861,08-01-2024,Organic
+acct_04862,08-01-2024,Organic
+acct_04863,08-01-2024,Organic
+acct_04864,08-01-2024,Organic
+acct_04865,08-01-2024,Organic
+acct_04866,08-01-2024,Organic
+acct_04867,08-01-2024,Organic
+acct_04868,08-01-2024,Organic
+acct_04869,08-01-2024,Organic
+acct_04870,08-01-2024,Organic
+acct_04871,08-01-2024,Organic
+acct_05422,08-01-2024,Organic
+acct_05423,08-01-2024,Organic
+acct_05424,08-01-2024,Organic
+acct_05425,08-01-2024,Organic
+acct_05426,08-01-2024,Organic
+acct_05427,08-01-2024,Organic
+acct_05428,08-01-2024,Organic
+acct_05429,08-01-2024,Organic
+acct_05430,08-01-2024,Organic
+acct_05431,08-01-2024,Organic
+acct_05432,08-01-2024,Organic
+acct_05433,08-01-2024,Organic
+acct_05434,08-01-2024,Organic
+acct_05435,08-01-2024,Organic
+acct_05436,08-01-2024,Organic
+acct_04407,09-01-2024,Organic
+acct_04408,09-01-2024,Organic
+acct_04409,09-01-2024,Organic
+acct_04410,09-01-2024,Organic
+acct_04411,09-01-2024,Organic
+acct_04412,09-01-2024,Organic
+acct_04413,09-01-2024,Organic
+acct_04414,09-01-2024,Organic
+acct_04415,09-01-2024,Organic
+acct_04416,09-01-2024,Organic
+acct_04417,09-01-2024,Organic
+acct_04418,09-01-2024,Organic
+acct_04419,09-01-2024,Organic
+acct_04420,09-01-2024,Organic
+acct_04421,09-01-2024,Organic
+acct_04872,09-01-2024,Organic
+acct_04873,09-01-2024,Organic
+acct_04874,09-01-2024,Organic
+acct_04875,09-01-2024,Organic
+acct_04876,09-01-2024,Organic
+acct_04877,09-01-2024,Organic
+acct_04878,09-01-2024,Organic
+acct_04879,09-01-2024,Organic
+acct_04880,09-01-2024,Organic
+acct_04881,09-01-2024,Organic
+acct_04882,09-01-2024,Organic
+acct_04883,09-01-2024,Organic
+acct_04884,09-01-2024,Organic
+acct_04885,09-01-2024,Organic
+acct_04886,09-01-2024,Organic
+acct_05437,09-01-2024,Organic
+acct_05438,09-01-2024,Organic
+acct_05439,09-01-2024,Organic
+acct_05440,09-01-2024,Organic
+acct_05441,09-01-2024,Organic
+acct_04442,09-01-2024,Organic
+acct_04443,09-01-2024,Organic
+acct_04444,09-01-2024,Organic
+acct_04445,09-01-2024,Organic
+acct_04446,09-01-2024,Organic
+acct_04447,09-01-2024,Organic
+acct_04448,09-01-2024,Organic
+acct_04449,09-01-2024,Organic
+acct_04450,09-01-2024,Organic
+acct_04451,09-01-2024,Organic
+acct_04422,10-01-2024,Organic
+acct_04423,10-01-2024,Organic
+acct_04424,10-01-2024,Organic
+acct_04425,10-01-2024,Organic
+acct_04426,10-01-2024,Organic
+acct_04427,10-01-2024,Organic
+acct_04428,10-01-2024,Organic
+acct_04429,10-01-2024,Organic
+acct_04430,10-01-2024,Organic
+acct_04431,10-01-2024,Organic
+acct_04432,10-01-2024,Organic
+acct_04433,10-01-2024,Organic
+acct_04434,10-01-2024,Organic
+acct_04435,10-01-2024,Organic
+acct_04436,10-01-2024,Organic
+acct_04887,10-01-2024,Organic
+acct_04888,10-01-2024,Organic
+acct_04889,10-01-2024,Organic
+acct_04990,10-01-2024,Organic
+acct_04991,10-01-2024,Organic
+acct_04992,10-01-2024,Organic
+acct_04993,10-01-2024,Organic
+acct_04994,10-01-2024,Organic
+acct_04995,10-01-2024,Organic
+acct_04996,10-01-2024,Organic
+acct_04997,10-01-2024,Organic
+acct_04998,10-01-2024,Organic
+acct_04999,10-01-2024,Organic
+acct_05000,10-01-2024,Organic
+acct_05001,10-01-2024,Organic
+acct_04452,10-01-2024,Organic
+acct_04453,10-01-2024,Organic
+acct_04454,10-01-2024,Organic
+acct_04455,10-01-2024,Organic
+acct_04456,10-01-2024,Organic
+acct_04457,10-01-2024,Organic
+acct_04458,10-01-2024,Organic
+acct_04459,10-01-2024,Organic
+acct_04460,10-01-2024,Organic
+acct_04461,10-01-2024,Organic
+acct_04462,10-01-2024,Organic
+acct_04463,10-01-2024,Organic
+acct_04464,10-01-2024,Organic
+acct_04465,10-01-2024,Organic
+acct_04466,10-01-2024,Organic
+acct_04437,11-01-2024,Organic
+acct_04438,11-01-2024,Organic
+acct_04439,11-01-2024,Organic
+acct_04440,11-01-2024,Organic
+acct_04441,11-01-2024,Organic
+acct_04442,11-01-2024,Organic
+acct_04443,11-01-2024,Organic
+acct_04444,11-01-2024,Organic
+acct_04445,11-01-2024,Organic
+acct_04446,11-01-2024,Organic
+acct_04447,11-01-2024,Organic
+acct_04448,11-01-2024,Organic
+acct_04449,11-01-2024,Organic
+acct_04450,11-01-2024,Organic
+acct_04451,11-01-2024,Organic
+acct_05002,11-01-2024,Organic
+acct_05003,11-01-2024,Organic
+acct_05004,11-01-2024,Organic
+acct_05005,11-01-2024,Organic
+acct_05006,11-01-2024,Organic
+acct_05007,11-01-2024,Organic
+acct_05008,11-01-2024,Organic
+acct_05009,11-01-2024,Organic
+acct_05010,11-01-2024,Organic
+acct_05011,11-01-2024,Organic
+acct_05012,11-01-2024,Organic
+acct_05013,11-01-2024,Organic
+acct_05014,11-01-2024,Organic
+acct_05015,11-01-2024,Organic
+acct_05016,11-01-2024,Organic
+acct_04467,11-01-2024,Organic
+acct_04468,11-01-2024,Organic
+acct_04469,11-01-2024,Organic
+acct_04470,11-01-2024,Organic
+acct_04471,11-01-2024,Organic
+acct_04472,11-01-2024,Organic
+acct_04473,11-01-2024,Organic
+acct_04474,11-01-2024,Organic
+acct_04475,11-01-2024,Organic
+acct_04476,11-01-2024,Organic
+acct_04477,11-01-2024,Organic
+acct_04478,11-01-2024,Organic
+acct_04479,11-01-2024,Organic
+acct_04480,11-01-2024,Organic
+acct_04481,11-01-2024,Organic
+acct_04452,12-01-2024,Organic
+acct_04453,12-01-2024,Organic
+acct_04454,12-01-2024,Organic
+acct_04455,12-01-2024,Organic
+acct_04456,12-01-2024,Organic
+acct_04457,12-01-2024,Organic
+acct_04458,12-01-2024,Organic
+acct_04459,12-01-2024,Organic
+acct_04460,12-01-2024,Organic
+acct_04461,12-01-2024,Organic
+acct_04462,12-01-2024,Organic
+acct_04463,12-01-2024,Organic
+acct_04464,12-01-2024,Organic
+acct_04465,12-01-2024,Organic
+acct_04466,12-01-2024,Organic
+acct_05017,12-01-2024,Organic
+acct_05018,12-01-2024,Organic
+acct_05019,12-01-2024,Organic
+acct_05020,12-01-2024,Organic
+acct_05021,12-01-2024,Organic
+acct_05022,12-01-2024,Organic
+acct_05023,12-01-2024,Organic
+acct_05024,12-01-2024,Organic
+acct_05025,12-01-2024,Organic
+acct_05026,12-01-2024,Organic
+acct_05027,12-01-2024,Organic
+acct_05028,12-01-2024,Organic
+acct_05029,12-01-2024,Organic
+acct_05030,12-01-2024,Organic
+acct_05031,12-01-2024,Organic
+acct_04482,12-01-2024,Organic
+acct_04483,12-01-2024,Organic
+acct_04484,12-01-2024,Organic
+acct_04485,12-01-2024,Organic
+acct_04486,12-01-2024,Organic
+acct_04487,12-01-2024,Organic
+acct_04488,12-01-2024,Organic
+acct_04489,12-01-2024,Organic
+acct_04490,12-01-2024,Organic
+acct_04491,12-01-2024,Organic
+acct_04492,12-01-2024,Organic
+acct_04493,12-01-2024,Organic
+acct_04494,12-01-2024,Organic
+acct_04495,12-01-2024,Organic
+acct_04467,13-01-2024,Organic
+acct_04468,13-01-2024,Organic
+acct_04469,13-01-2024,Organic
+acct_04470,13-01-2024,Organic
+acct_04471,13-01-2024,Organic
+acct_04472,13-01-2024,Organic
+acct_04473,13-01-2024,Organic
+acct_04474,13-01-2024,Organic
+acct_04475,13-01-2024,Organic
+acct_04476,13-01-2024,Organic
+acct_04477,13-01-2024,Organic
+acct_04478,13-01-2024,Organic
+acct_04479,13-01-2024,Organic
+acct_04480,13-01-2024,Organic
+acct_04481,13-01-2024,Organic
+acct_05032,13-01-2024,Organic
+acct_05033,13-01-2024,Organic
+acct_05034,13-01-2024,Organic
+acct_05035,13-01-2024,Organic
+acct_05036,13-01-2024,Organic
+acct_05037,13-01-2024,Organic
+acct_05038,13-01-2024,Organic
+acct_05039,13-01-2024,Organic
+acct_05040,13-01-2024,Organic
+acct_05041,13-01-2024,Organic
+acct_05042,13-01-2024,Organic
+acct_05043,13-01-2024,Organic
+acct_05044,13-01-2024,Organic
+acct_05045,13-01-2024,Organic
+acct_05046,13-01-2024,Organic
+acct_04482,14-01-2024,Organic
+acct_04483,14-01-2024,Organic
+acct_04484,14-01-2024,Organic
+acct_04485,14-01-2024,Organic
+acct_04486,14-01-2024,Organic
+acct_04487,14-01-2024,Organic
+acct_04488,14-01-2024,Organic
+acct_04489,14-01-2024,Organic
+acct_04490,14-01-2024,Organic
+acct_04491,14-01-2024,Organic
+acct_04492,14-01-2024,Organic
+acct_04493,14-01-2024,Organic
+acct_04494,14-01-2024,Organic
+acct_04495,14-01-2024,Organic
+acct_04496,14-01-2024,Organic
+acct_05047,14-01-2024,Organic
+acct_05048,14-01-2024,Organic
+acct_05049,14-01-2024,Organic
+acct_05050,14-01-2024,Organic
+acct_05051,14-01-2024,Organic
+acct_05052,14-01-2024,Organic
+acct_05053,14-01-2024,Organic
+acct_05054,14-01-2024,Organic
+acct_05055,14-01-2024,Organic
+acct_05056,14-01-2024,Organic
+acct_05057,14-01-2024,Organic
+acct_05058,14-01-2024,Organic
+acct_05059,14-01-2024,Organic
+acct_05060,14-01-2024,Organic
+acct_05061,14-01-2024,Organic
+acct_04497,15-01-2024,Organic
+acct_04498,15-01-2024,Organic
+acct_04499,15-01-2024,Organic
+acct_04500,15-01-2024,Organic
+acct_04501,15-01-2024,Organic
+acct_04502,15-01-2024,Organic
+acct_04503,15-01-2024,Organic
+acct_04504,15-01-2024,Organic
+acct_04505,15-01-2024,Organic
+acct_04506,15-01-2024,Organic
+acct_04507,15-01-2024,Organic
+acct_04508,15-01-2024,Organic
+acct_04509,15-01-2024,Organic
+acct_04510,15-01-2024,Organic
+acct_04511,15-01-2024,Organic
+acct_05062,15-01-2024,Organic
+acct_05063,15-01-2024,Organic
+acct_05064,15-01-2024,Organic
+acct_05065,15-01-2024,Organic
+acct_05066,15-01-2024,Organic
+acct_05067,15-01-2024,Organic
+acct_05068,15-01-2024,Organic
+acct_05069,15-01-2024,Organic
+acct_05070,15-01-2024,Organic
+acct_05071,15-01-2024,Organic
+acct_05072,15-01-2024,Organic
+acct_05073,15-01-2024,Organic
+acct_05074,15-01-2024,Organic
+acct_05075,15-01-2024,Organic
+acct_05076,15-01-2024,Organic
+acct_04512,16-01-2024,Organic
+acct_04513,16-01-2024,Organic
+acct_04514,16-01-2024,Organic
+acct_04515,16-01-2024,Organic
+acct_04516,16-01-2024,Organic
+acct_04517,16-01-2024,Organic
+acct_04518,16-01-2024,Organic
+acct_04519,16-01-2024,Organic
+acct_04520,16-01-2024,Organic
+acct_04521,16-01-2024,Organic
+acct_04522,16-01-2024,Organic
+acct_04523,16-01-2024,Organic
+acct_04524,16-01-2024,Organic
+acct_04525,16-01-2024,Organic
+acct_04526,16-01-2024,Organic
+acct_05077,16-01-2024,Organic
+acct_05078,16-01-2024,Organic
+acct_05079,16-01-2024,Organic
+acct_05080,16-01-2024,Organic
+acct_05081,16-01-2024,Organic
+acct_05082,16-01-2024,Organic
+acct_05083,16-01-2024,Organic
+acct_05084,16-01-2024,Organic
+acct_05085,16-01-2024,Organic
+acct_05086,16-01-2024,Organic
+acct_05087,16-01-2024,Organic
+acct_05088,16-01-2024,Organic
+acct_05089,16-01-2024,Organic
+acct_05090,16-01-2024,Organic
+acct_05091,16-01-2024,Organic
+acct_04527,17-01-2024,Organic
+acct_04528,17-01-2024,Organic
+acct_04529,17-01-2024,Organic
+acct_04530,17-01-2024,Organic
+acct_04531,17-01-2024,Organic
+acct_04532,17-01-2024,Organic
+acct_04533,17-01-2024,Organic
+acct_04534,17-01-2024,Organic
+acct_04535,17-01-2024,Organic
+acct_04536,17-01-2024,Organic
+acct_04537,17-01-2024,Organic
+acct_04538,17-01-2024,Organic
+acct_04539,17-01-2024,Organic
+acct_04540,17-01-2024,Organic
+acct_04541,17-01-2024,Organic
+acct_05092,17-01-2024,Organic
+acct_05093,17-01-2024,Organic
+acct_05094,17-01-2024,Organic
+acct_05095,17-01-2024,Organic
+acct_05096,17-01-2024,Organic
+acct_05097,17-01-2024,Organic
+acct_05098,17-01-2024,Organic
+acct_05099,17-01-2024,Organic
+acct_05100,17-01-2024,Organic
+acct_05101,17-01-2024,Organic
+acct_05102,17-01-2024,Organic
+acct_05103,17-01-2024,Organic
+acct_05104,17-01-2024,Organic
+acct_05105,17-01-2024,Organic
+acct_05106,17-01-2024,Organic
+acct_04542,18-01-2024,Organic
+acct_04543,18-01-2024,Organic
+acct_04544,18-01-2024,Organic
+acct_04545,18-01-2024,Organic
+acct_04546,18-01-2024,Organic
+acct_04547,18-01-2024,Organic
+acct_04548,18-01-2024,Organic
+acct_04549,18-01-2024,Organic
+acct_04550,18-01-2024,Organic
+acct_04551,18-01-2024,Organic
+acct_04552,18-01-2024,Organic
+acct_04553,18-01-2024,Organic
+acct_04554,18-01-2024,Organic
+acct_04555,18-01-2024,Organic
+acct_04556,18-01-2024,Organic
+acct_05107,18-01-2024,Organic
+acct_05108,18-01-2024,Organic
+acct_05109,18-01-2024,Organic
+acct_05110,18-01-2024,Organic
+acct_05111,18-01-2024,Organic
+acct_05112,18-01-2024,Organic
+acct_05113,18-01-2024,Organic
+acct_05114,18-01-2024,Organic
+acct_05115,18-01-2024,Organic
+acct_05116,18-01-2024,Organic
+acct_05117,18-01-2024,Organic
+acct_05118,18-01-2024,Organic
+acct_05119,18-01-2024,Organic
+acct_05120,18-01-2024,Organic
+acct_05121,18-01-2024,Organic
+acct_04557,19-01-2024,Organic
+acct_04558,19-01-2024,Organic
+acct_04559,19-01-2024,Organic
+acct_04560,19-01-2024,Organic
+acct_04561,19-01-2024,Organic
+acct_04562,19-01-2024,Organic
+acct_04563,19-01-2024,Organic
+acct_04564,19-01-2024,Organic
+acct_04565,19-01-2024,Organic
+acct_04566,19-01-2024,Organic
+acct_04567,19-01-2024,Organic
+acct_04568,19-01-2024,Organic
+acct_04569,19-01-2024,Organic
+acct_04570,19-01-2024,Organic
+acct_04571,19-01-2024,Organic
+acct_05122,19-01-2024,Organic
+acct_05123,19-01-2024,Organic
+acct_05124,19-01-2024,Organic
+acct_05125,19-01-2024,Organic
+acct_05126,19-01-2024,Organic
+acct_05127,19-01-2024,Organic
+acct_05128,19-01-2024,Organic
+acct_05129,19-01-2024,Organic
+acct_05130,19-01-2024,Organic
+acct_05131,19-01-2024,Organic
+acct_05132,19-01-2024,Organic
+acct_05133,19-01-2024,Organic
+acct_05134,19-01-2024,Organic
+acct_05135,19-01-2024,Organic
+acct_05136,19-01-2024,Organic
+acct_04572,20-01-2024,Organic
+acct_04573,20-01-2024,Organic
+acct_04574,20-01-2024,Organic
+acct_04575,20-01-2024,Organic
+acct_04576,20-01-2024,Organic
+acct_04577,20-01-2024,Organic
+acct_04578,20-01-2024,Organic
+acct_04579,20-01-2024,Organic
+acct_04580,20-01-2024,Organic
+acct_04581,20-01-2024,Organic
+acct_04582,20-01-2024,Organic
+acct_04583,20-01-2024,Organic
+acct_04584,20-01-2024,Organic
+acct_04585,20-01-2024,Organic
+acct_04586,20-01-2024,Organic
+acct_05137,20-01-2024,Organic
+acct_05138,20-01-2024,Organic
+acct_05139,20-01-2024,Organic
+acct_05140,20-01-2024,Organic
+acct_05141,20-01-2024,Organic
+acct_05142,20-01-2024,Organic
+acct_05143,20-01-2024,Organic
+acct_05144,20-01-2024,Organic
+acct_05145,20-01-2024,Organic
+acct_05146,20-01-2024,Organic
+acct_05147,20-01-2024,Organic
+acct_05148,20-01-2024,Organic
+acct_05149,20-01-2024,Organic
+acct_05150,20-01-2024,Organic
+acct_05151,20-01-2024,Organic
+acct_04587,21-01-2024,Organic
+acct_04588,21-01-2024,Organic
+acct_04589,21-01-2024,Organic
+acct_04590,21-01-2024,Organic
+acct_04591,21-01-2024,Organic
+acct_04592,21-01-2024,Organic
+acct_04593,21-01-2024,Organic
+acct_04594,21-01-2024,Organic
+acct_04595,21-01-2024,Organic
+acct_04596,21-01-2024,Organic
+acct_04597,21-01-2024,Organic
+acct_04598,21-01-2024,Organic
+acct_04599,21-01-2024,Organic
+acct_04600,21-01-2024,Organic
+acct_04601,21-01-2024,Organic
+acct_05152,21-01-2024,Organic
+acct_05153,21-01-2024,Organic
+acct_05154,21-01-2024,Organic
+acct_05155,21-01-2024,Organic
+acct_05156,21-01-2024,Organic
+acct_05157,21-01-2024,Organic
+acct_05158,21-01-2024,Organic
+acct_05159,21-01-2024,Organic
+acct_05160,21-01-2024,Organic
+acct_05161,21-01-2024,Organic
+acct_05162,21-01-2024,Organic
+acct_05163,21-01-2024,Organic
+acct_05164,21-01-2024,Organic
+acct_05165,21-01-2024,Organic
+acct_05166,21-01-2024,Organic
+acct_04602,22-01-2024,Organic
+acct_04603,22-01-2024,Organic
+acct_04604,22-01-2024,Organic
+acct_04605,22-01-2024,Organic
+acct_04606,22-01-2024,Organic
+acct_04607,22-01-2024,Organic
+acct_04608,22-01-2024,Organic
+acct_04609,22-01-2024,Organic
+acct_04610,22-01-2024,Organic
+acct_04611,22-01-2024,Organic
+acct_04612,22-01-2024,Organic
+acct_04613,22-01-2024,Organic
+acct_04614,22-01-2024,Organic
+acct_04615,22-01-2024,Organic
+acct_04616,22-01-2024,Organic
+acct_05167,22-01-2024,Organic
+acct_05168,22-01-2024,Organic
+acct_05169,22-01-2024,Organic
+acct_05170,22-01-2024,Organic
+acct_05171,22-01-2024,Organic
+acct_05172,22-01-2024,Organic
+acct_05173,22-01-2024,Organic
+acct_05174,22-01-2024,Organic
+acct_05175,22-01-2024,Organic
+acct_05176,22-01-2024,Organic
+acct_05177,22-01-2024,Organic
+acct_05178,22-01-2024,Organic
+acct_05179,22-01-2024,Organic
+acct_05180,22-01-2024,Organic
+acct_05181,22-01-2024,Organic
+acct_04617,23-01-2024,Organic
+acct_04618,23-01-2024,Organic
+acct_04619,23-01-2024,Organic
+acct_04620,23-01-2024,Organic
+acct_04621,23-01-2024,Organic
+acct_04622,23-01-2024,Organic
+acct_04623,23-01-2024,Organic
+acct_04624,23-01-2024,Organic
+acct_04625,23-01-2024,Organic
+acct_04626,23-01-2024,Organic
+acct_04627,23-01-2024,Organic
+acct_04628,23-01-2024,Organic
+acct_04629,23-01-2024,Organic
+acct_04630,23-01-2024,Organic
+acct_04631,23-01-2024,Organic
+acct_05182,23-01-2024,Organic
+acct_05183,23-01-2024,Organic
+acct_05184,23-01-2024,Organic
+acct_05185,23-01-2024,Organic
+acct_05186,23-01-2024,Organic
+acct_05187,23-01-2024,Organic
+acct_05188,23-01-2024,Organic
+acct_05189,23-01-2024,Organic
+acct_05190,23-01-2024,Organic
+acct_05191,23-01-2024,Organic
+acct_05192,23-01-2024,Organic
+acct_05193,23-01-2024,Organic
+acct_05194,23-01-2024,Organic
+acct_05195,23-01-2024,Organic
+acct_05196,23-01-2024,Organic
+acct_04632,24-01-2024,Organic
+acct_04633,24-01-2024,Organic
+acct_04634,24-01-2024,Organic
+acct_04635,24-01-2024,Organic
+acct_04636,24-01-2024,Organic
+acct_04637,24-01-2024,Organic
+acct_04638,24-01-2024,Organic
+acct_04639,24-01-2024,Organic
+acct_04640,24-01-2024,Organic
+acct_04641,24-01-2024,Organic
+acct_04642,24-01-2024,Organic
+acct_04643,24-01-2024,Organic
+acct_04644,24-01-2024,Organic
+acct_04645,24-01-2024,Organic
+acct_04646,24-01-2024,Organic
+acct_05197,24-01-2024,Organic
+acct_05198,24-01-2024,Organic
+acct_05199,24-01-2024,Organic
+acct_05200,24-01-2024,Organic
+acct_05201,24-01-2024,Organic
+acct_05202,24-01-2024,Organic
+acct_05203,24-01-2024,Organic
+acct_05204,24-01-2024,Organic
+acct_05205,24-01-2024,Organic
+acct_05206,24-01-2024,Organic
+acct_05207,24-01-2024,Organic
+acct_05208,24-01-2024,Organic
+acct_05209,24-01-2024,Organic
+acct_05210,24-01-2024,Organic
+acct_05211,24-01-2024,Organic
+acct_04647,25-01-2024,Organic
+acct_04648,25-01-2024,Organic
+acct_04649,25-01-2024,Organic
+acct_04650,25-01-2024,Organic
+acct_04651,25-01-2024,Organic
+acct_04652,25-01-2024,Organic
+acct_04653,25-01-2024,Organic
+acct_04654,25-01-2024,Organic
+acct_04655,25-01-2024,Organic
+acct_04656,25-01-2024,Organic
+acct_04657,25-01-2024,Organic
+acct_04658,25-01-2024,Organic
+acct_04659,25-01-2024,Organic
+acct_04660,25-01-2024,Organic
+acct_04661,25-01-2024,Organic
+acct_05212,25-01-2024,Organic
+acct_05213,25-01-2024,Organic
+acct_05214,25-01-2024,Organic
+acct_05215,25-01-2024,Organic
+acct_05216,25-01-2024,Organic
+acct_05217,25-01-2024,Organic
+acct_05218,25-01-2024,Organic
+acct_05219,25-01-2024,Organic
+acct_05220,25-01-2024,Organic
+acct_05221,25-01-2024,Organic
+acct_05222,25-01-2024,Organic
+acct_05223,25-01-2024,Organic
+acct_05224,25-01-2024,Organic
+acct_05225,25-01-2024,Organic
+acct_05226,25-01-2024,Organic
+acct_04662,26-01-2024,Organic
+acct_04663,26-01-2024,Organic
+acct_04664,26-01-2024,Organic
+acct_04665,26-01-2024,Organic
+acct_04666,26-01-2024,Organic
+acct_04667,26-01-2024,Organic
+acct_04668,26-01-2024,Organic
+acct_04669,26-01-2024,Organic
+acct_04670,26-01-2024,Organic
+acct_04671,26-01-2024,Organic
+acct_04672,26-01-2024,Organic
+acct_04673,26-01-2024,Organic
+acct_04674,26-01-2024,Organic
+acct_04675,26-01-2024,Organic
+acct_04676,26-01-2024,Organic
+acct_05227,26-01-2024,Organic
+acct_05228,26-01-2024,Organic
+acct_05229,26-01-2024,Organic
+acct_05230,26-01-2024,Organic
+acct_05231,26-01-2024,Organic
+acct_05232,26-01-2024,Organic
+acct_05233,26-01-2024,Organic
+acct_05234,26-01-2024,Organic
+acct_05235,26-01-2024,Organic
+acct_05236,26-01-2024,Organic
+acct_05237,26-01-2024,Organic
+acct_05238,26-01-2024,Organic
+acct_05239,26-01-2024,Organic
+acct_05240,26-01-2024,Organic
+acct_05241,26-01-2024,Organic
+acct_04677,27-01-2024,Organic
+acct_04678,27-01-2024,Organic
+acct_04679,27-01-2024,Organic
+acct_04680,27-01-2024,Organic
+acct_04681,27-01-2024,Organic
+acct_04682,27-01-2024,Organic
+acct_04683,27-01-2024,Organic
+acct_04684,27-01-2024,Organic
+acct_04685,27-01-2024,Organic
+acct_04686,27-01-2024,Organic
+acct_04687,27-01-2024,Organic
+acct_04688,27-01-2024,Organic
+acct_04689,27-01-2024,Organic
+acct_04690,27-01-2024,Organic
+acct_04691,27-01-2024,Organic
+acct_05242,27-01-2024,Organic
+acct_05243,27-01-2024,Organic
+acct_05244,27-01-2024,Organic
+acct_05245,27-01-2024,Organic
+acct_05246,27-01-2024,Organic
+acct_05247,27-01-2024,Organic
+acct_05248,27-01-2024,Organic
+acct_05249,27-01-2024,Organic
+acct_05250,27-01-2024,Organic
+acct_05251,27-01-2024,Organic
+acct_05252,27-01-2024,Organic
+acct_05253,27-01-2024,Organic
+acct_05254,27-01-2024,Organic
+acct_05255,27-01-2024,Organic
+acct_05256,27-01-2024,Organic
+acct_04692,28-01-2024,Organic
+acct_04693,28-01-2024,Organic
+acct_04694,28-01-2024,Organic
+acct_04695,28-01-2024,Organic
+acct_04696,28-01-2024,Organic
+acct_04697,28-01-2024,Organic
+acct_04698,28-01-2024,Organic
+acct_04699,28-01-2024,Organic
+acct_04700,28-01-2024,Organic
+acct_04701,28-01-2024,Organic
+acct_04702,28-01-2024,Organic
+acct_04703,28-01-2024,Organic
+acct_04704,28-01-2024,Organic
+acct_04705,28-01-2024,Organic
+acct_04706,28-01-2024,Organic
+acct_05257,28-01-2024,Organic
+acct_05258,28-01-2024,Organic
+acct_05259,28-01-2024,Organic
+acct_05260,28-01-2024,Organic
+acct_05261,28-01-2024,Organic
+acct_05262,28-01-2024,Organic
+acct_05263,28-01-2024,Organic
+acct_05264,28-01-2024,Organic
+acct_05265,28-01-2024,Organic
+acct_05266,28-01-2024,Organic
+acct_05267,28-01-2024,Organic
+acct_05268,28-01-2024,Organic
+acct_05269,28-01-2024,Organic
+acct_05270,28-01-2024,Organic
+acct_05271,28-01-2024,Organic
+acct_04707,29-01-2024,Organic
+acct_04708,29-01-2024,Organic
+acct_04709,29-01-2024,Organic
+acct_04710,29-01-2024,Organic
+acct_04711,29-01-2024,Organic
+acct_04712,29-01-2024,Organic
+acct_04713,29-01-2024,Organic
+acct_04714,29-01-2024,Organic
+acct_04715,29-01-2024,Organic
+acct_04716,29-01-2024,Organic
+acct_04717,29-01-2024,Organic
+acct_04718,29-01-2024,Organic
+acct_04719,29-01-2024,Organic
+acct_04720,29-01-2024,Organic
+acct_04721,29-01-2024,Organic
+acct_05272,29-01-2024,Organic
+acct_05273,29-01-2024,Organic
+acct_05274,29-01-2024,Organic
+acct_05275,29-01-2024,Organic
+acct_05276,29-01-2024,Organic
+acct_05277,29-01-2024,Organic
+acct_05278,29-01-2024,Organic
+acct_05279,29-01-2024,Organic
+acct_05280,29-01-2024,Organic
+acct_05281,29-01-2024,Organic
+acct_05282,29-01-2024,Organic
+acct_05283,29-01-2024,Organic
+acct_05284,29-01-2024,Organic
+acct_05285,29-01-2024,Organic
+acct_05286,29-01-2024,Organic
+acct_04722,30-01-2024,Organic
+acct_04723,30-01-2024,Organic
+acct_04724,30-01-2024,Organic
+acct_04725,30-01-2024,Organic
+acct_04726,30-01-2024,Organic
+acct_04727,30-01-2024,Organic
+acct_04728,30-01-2024,Organic
+acct_04729,30-01-2024,Organic
+acct_04730,30-01-2024,Organic
+acct_04731,30-01-2024,Organic
+acct_04732,30-01-2024,Organic
+acct_04733,30-01-2024,Organic
+acct_04734,30-01-2024,Organic
+acct_04735,30-01-2024,Organic
+acct_04736,30-01-2024,Organic
+acct_05287,30-01-2024,Organic
+acct_05288,30-01-2024,Organic
+acct_05289,30-01-2024,Organic
+acct_05290,30-01-2024,Organic
+acct_05291,30-01-2024,Organic
+acct_05292,30-01-2024,Organic
+acct_05293,30-01-2024,Organic
+acct_05294,30-01-2024,Organic
+acct_05295,30-01-2024,Organic
+acct_05296,30-01-2024,Organic
+acct_05297,30-01-2024,Organic
+acct_05298,30-01-2024,Organic
+acct_05299,30-01-2024,Organic
+acct_05300,30-01-2024,Organic
+acct_05301,30-01-2024,Organic
+acct_04737,31-01-2024,Organic
+acct_04738,31-01-2024,Organic
+acct_04739,31-01-2024,Organic
+acct_04740,31-01-2024,Organic
+acct_04741,31-01-2024,Organic
+acct_04742,31-01-2024,Organic
+acct_04743,31-01-2024,Organic
+acct_04744,31-01-2024,Organic
+acct_04745,31-01-2024,Organic
+acct_04746,31-01-2024,Organic
+acct_04747,31-01-2024,Organic
+acct_04748,31-01-2024,Organic
+acct_04749,31-01-2024,Organic
+acct_04750,31-01-2024,Organic
+acct_04751,31-01-2024,Organic
+acct_05302,31-01-2024,Organic
+acct_05303,31-01-2024,Organic
+acct_05304,31-01-2024,Organic
+acct_05305,31-01-2024,Organic
+acct_05306,31-01-2024,Organic
+acct_05307,31-01-2024,Organic
+acct_05308,31-01-2024,Organic
+acct_05309,31-01-2024,Organic
+acct_05310,31-01-2024,Organic
+acct_05311,31-01-2024,Organic
+acct_05312,31-01-2024,Organic
+acct_05313,31-01-2024,Organic
+acct_05314,31-01-2024,Organic
+acct_05315,31-01-2024,Organic
+acct_05316,31-01-2024,Organic
