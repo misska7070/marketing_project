@@ -1,4 +1,4 @@
-# ❤️ Find Love – Marketing Campaign Analytics (Anonymised Project)
+# ❤️ Find Love – Marketing Campaign Analytics 
 
 This project is an **end-to-end marketing analytics pipeline** built for a dating company (anonymised as *Find Love*).  
 It takes raw data from Facebook, TikTok, sign-ups, transactions, and currency exchange rates, then transforms it into a clean, ready-to-use dataset that powers a **self-serve dashboard** for the marketing team.  
@@ -39,15 +39,43 @@ Steps:
 
 ### Funnel View
 ![Funnel](images/Funnel.png)  
-*Shows how money spent flows into sign-ups, then into paying customers.*  
+*Shows how spend → sign-ups → paying customers flow through the funnel.
+Insight: Only 14% of sign-ups became paying users; most dropped off before purchase.
+Action: Add early conversion nudges (emails, discounts, trial offers) in the first week.*  
 
 ### Channel Comparison
+
+*Compares efficiency of both channels.
+Return on Ad Spend (blue bars):
+1 = break-even. Above 1 = profit.
+TikTok: 1.53 (good). Facebook: 1.29 (weak).
+
+Cost to acquire a paying customer (red bars):
+Reference line = £20.52 (average).
+TikTok: £18.15 (below average, good). Facebook: £22.37 (above average, risky).
+
+Insight: TikTok campaigns delivered stronger returns per pound spent than Facebook.
+Action: Shift more budget into TikTok, cap or optimise Facebook until its returns improve.*
+
 ![TikTok vs Facebook](images/tiktok_vs_fb.png)  
-*Side-by-side view of TikTok vs Facebook effectiveness.*  
+
 
 ### Spending Efficiency
 ![ROAS](images/roas.png)  
-*How much revenue each pound of ad spend generated, campaign by campaign.*  
+*Which country is performing better?
+Great Britain → every £1 spent brought back ~£1.54.
+France → every £1 spent brought back ~£1.13.
+
+What does it mean?
+UK campaigns are bringing in customers who spend more, while French campaigns are less profitable and under-monetised.
+
+How to improve France?
+
+Reallocate part of the French budget to the UK (higher returns).
+
+Run A/B tests in France with new messaging, tighter targeting, or fresh creatives.
+
+Track country-level performance weekly until France reaches at least ~1.3× return.*
 
 ### Dashboard Snapshots
 ![Marketing Dashboard 1](images/Marketing_dashboard_1.jpg)  
