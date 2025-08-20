@@ -22,8 +22,17 @@ To help the marketing team answer three simple questions:
 
 ---
 
+
+## 🛠️ Tech Stack
+- **BigQuery** – cloud data warehouse.  
+- **dbt** – transformations + testing.  
+- **Looker** – dashboard delivery.  
+- **GitHub** – version control and code sharing.
+
+---
+
 ## ⚙️ Data Pipeline
-![Pipeline](images/pipeline.png)  
+ 
 *From raw CSVs → cleaning & validation → analytics table → Looker dashboard.*  
 
 Steps:
@@ -31,7 +40,9 @@ Steps:
 2. **Clean** data: remove duplicates, fix currency issues, split campaign details.  
 3. **Validate** with dbt tests: check for missing values, wrong formats, or negative spend.  
 4. **Assemble** a single campaign performance table with key metrics.  
-5. **Visualise** results in Looker so marketers can explore without writing SQL.  
+5. **Visualise** results in Looker so marketers can explore without writing SQL.
+
+![Pipeline](images/pipeline.png) 
 
 ---
 
@@ -111,13 +122,6 @@ All cleaning and transformations are tested in **dbt**, ensuring:
 
 ---
 
-## 🛠️ Tech Stack
-- **BigQuery** – cloud data warehouse.  
-- **dbt** – transformations + testing.  
-- **Looker** – dashboard delivery.  
-- **GitHub** – version control and code sharing.  
-
----
 
 ## 🚀 Future Improvements
 - Automate daily runs with Airflow or dbt Cloud.  
